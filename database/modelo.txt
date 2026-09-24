@@ -1,0 +1,59 @@
+CLIENTES
+--------
+cliente_id          PK
+nombre
+email
+provincia
+fecha_registro
+
+
+PRODUCTOS
+---------
+producto_id         PK
+nombre
+categoria_id        FK -> CATEGORIAS.categoria_id
+marca
+precio
+costo
+stock
+
+
+PEDIDOS
+-------
+pedido_id           PK
+cliente_id          FK -> CLIENTES.cliente_id
+fecha
+estado
+canal_venta
+
+
+DETALLE_PEDIDO
+--------------
+detalle_id          PK
+pedido_id           FK -> PEDIDOS.pedido_id
+producto_id         FK -> PRODUCTOS.producto_id
+cantidad
+precio_unitario
+
+CATEGORIAS
+----------
+categoria_id        PK
+nombre              UNIQUE
+descripcion
+
+MOVIMIENTOS_STOCK
+-----------------
+movimiento_id       PK
+producto_id         FK -> PRODUCTOS.producto_id
+fecha
+tipo
+cantidad
+
+PAGOS
+-----
+pago_id             PK
+pedido_id           FK -> PEDIDOS.pedido_id
+fecha_pago
+monto
+metodo_pago
+estado

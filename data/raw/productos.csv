@@ -1,0 +1,101 @@
+producto_id,nombre,categoria_id,marca,precio,costo,stock
+1,Malbec Altos del Sol 750,1,Altos del Sol,9463.07,5587.3,43
+2,Blend Blanco Altos del Sol 750,2,Altos del Sol,7077.23,4558.86,86
+3,Rose Pinot Finca Sur 750,3,Finca Sur,8480.03,4822.23,50
+4,Demi Sec Bodega Norte 750,4,Bodega Norte,10069.41,5938.03,147
+5,Irish Whiskey Bodega Norte 750,5,Bodega Norte,92961.33,63724.89,76
+6,Gin Botanico La Reserva 750,6,La Reserva,40043.56,21920.97,29
+7,Vodka Premium Monte Claro 750,7,Monte Claro,12691.29,7963.73,98
+8,Vermut Rosso Rio Seco 750,8,Rio Seco,13602.3,7992.22,101
+9,IPA Finca Sur 2,9,Finca Sur,6758.9,4741.06,9
+10,Destapador Rio Seco 6,10,Rio Seco,42010.29,19813.15,63
+11,Syrah Patagonia Select 750,1,Patagonia Select,13755.26,8055.82,13
+12,Chardonnay Casa Andina 750,2,Casa Andina,14719.17,9069.45,38
+13,Rose Pinot Valle Azul 750,3,Valle Azul,6160.58,3639.8,39
+14,Demi Sec Patagonia Select 750,4,Patagonia Select,7797.48,4569.31,147
+15,Single Malt La Reserva 750,5,La Reserva,64486.88,49876.42,28
+16,London Dry Viña Central 750,6,Viña Central,11608.99,6660.73,69
+17,Vodka Clasico Bodega Norte 750,7,Bodega Norte,27867.54,16637.87,98
+18,Aperitivo Bitter Casa Andina 750,8,Casa Andina,11755.55,6778.03,57
+19,Porter Patagonia Select 1,9,Patagonia Select,5947.84,3447.39,38
+20,Destapador Viña Central 6,10,Viña Central,5345.47,2331.55,138
+21,Cabernet Sauvignon La Reserva 750,1,La Reserva,8941.79,5693.74,103
+22,Blend Blanco Finca Sur 750,2,Finca Sur,11432.41,7325.93,185
+23,Rosado Dulce Bodega Norte 750,3,Bodega Norte,11608.26,7009.46,107
+24,Rose Espumante Casa Andina 750,4,Casa Andina,15485.75,8249.69,86
+25,Single Malt Bodega Norte 750,5,Bodega Norte,93061.83,73360.01,36
+26,Gin Botanico Patagonia Select 750,6,Patagonia Select,19447.37,11570.52,196
+27,Vodka Citrus Rio Seco 750,7,Rio Seco,13418.28,7326.61,218
+28,Vermut Bianco Valle Azul 750,8,Valle Azul,8597.65,4843.1,37
+29,Honey Patagonia Select 6,9,Patagonia Select,5455.06,3586.98,90
+30,Decanter La Reserva 1,10,La Reserva,28008.4,12820.23,181
+31,Malbec Rio Seco 750,1,Rio Seco,14493.52,10029.39,98
+32,Chardonnay Finca Sur 750,2,Finca Sur,7880.93,5176.6,120
+33,Rosado Dulce Altos del Sol 750,3,Altos del Sol,11669.96,6580.12,43
+34,Extra Brut Valle Azul 750,4,Valle Azul,11983.68,6642.77,167
+35,Irish Whiskey La Reserva 750,5,La Reserva,90377.33,65074.1,32
+36,Gin Botanico La Reserva 750,6,La Reserva,19668.42,11601.08,82
+37,Vodka Clasico Valle Azul 750,7,Valle Azul,13537.11,8770.4,190
+38,Vermut Rosso Monte Claro 750,8,Monte Claro,4922.3,3000.67,184
+39,Honey Casa Andina 2,9,Casa Andina,7869.28,5409.01,6
+40,Destapador La Reserva 2,10,La Reserva,28558.65,14816.79,89
+41,Pinot Noir La Reserva 750,1,La Reserva,22643.08,13321.61,17
+42,Torrontes Monte Claro 750,2,Monte Claro,11543.04,7678.94,98
+43,Rose Pinot Casa Andina 750,3,Casa Andina,12837.6,7543.9,106
+44,Extra Brut Patagonia Select 750,4,Patagonia Select,12168.79,7179.57,32
+45,Blend Scotch Monte Claro 750,5,Monte Claro,111664.71,85576.54,109
+46,Pink Gin Valle Azul 750,6,Valle Azul,19693.79,11549.25,67
+47,Vodka Premium Casa Andina 750,7,Casa Andina,13783.25,8742.59,30
+48,Aperitivo Bitter Monte Claro 750,8,Monte Claro,7360.78,4291.59,90
+49,IPA La Reserva 1,9,La Reserva,5016.22,3009.08,60
+50,Copa Cristal Finca Sur 6,10,Finca Sur,36168.25,14939.44,34
+51,Blend Tinto Rio Seco 750,1,Rio Seco,9175.05,6206.86,43
+52,Blend Blanco Altos del Sol 750,2,Altos del Sol,14870.75,10090.5,47
+53,Rosado Dulce Monte Claro 750,3,Monte Claro,16217.83,9787.62,37
+54,Brut Nature Rio Seco 750,4,Rio Seco,27538.59,16563.84,65
+55,Bourbon Rio Seco 750,5,Rio Seco,36718.13,25632.92,161
+56,Gin Citrus Casa Andina 750,6,Casa Andina,11234.56,6833.71,99
+57,Vodka Premium Viña Central 750,7,Viña Central,29213.05,18416.4,41
+58,Vermut Bianco Valle Azul 750,8,Valle Azul,9208.55,5046.19,58
+59,Golden Ale Monte Claro 2,9,Monte Claro,6479.74,4212.6,89
+60,Copa Cristal Bodega Norte 2,10,Bodega Norte,8555.83,3912.57,36
+61,Blend Tinto La Reserva 750,1,La Reserva,19720.52,11561.16,40
+62,Torrontes Finca Sur 750,2,Finca Sur,15521.67,8730.09,33
+63,Rosado Malbec Finca Sur 750,3,Finca Sur,10430.32,6198.4,135
+64,Extra Brut Casa Andina 750,4,Casa Andina,10301.62,5859.46,24
+65,Blend Scotch Bodega Norte 750,5,Bodega Norte,83827.06,63042.09,119
+66,London Dry Viña Central 750,6,Viña Central,18319.29,9189.78,77
+67,Vodka Premium Rio Seco 750,7,Rio Seco,25459.86,15990.2,197
+68,Aperitivo Bitter La Reserva 750,8,La Reserva,13380.84,6925.59,89
+69,Honey Bodega Norte 2,9,Bodega Norte,4605.11,2644.74,102
+70,Destapador Rio Seco 1,10,Rio Seco,31806.32,13119.46,150
+71,Blend Tinto Rio Seco 750,1,Rio Seco,10343.99,6364.74,92
+72,Blend Blanco Finca Sur 750,2,Finca Sur,12354.01,7734.19,97
+73,Rose Pinot Rio Seco 750,3,Rio Seco,6669.29,4429.11,54
+74,Brut Nature Finca Sur 750,4,Finca Sur,17968.83,11288.77,214
+75,Bourbon Finca Sur 750,5,Finca Sur,47977.83,35810.8,46
+76,Gin Botanico Rio Seco 750,6,Rio Seco,8549.61,4331.91,202
+77,Vodka Premium Bodega Norte 750,7,Bodega Norte,15453.64,9849.18,45
+78,Vermut Bianco Bodega Norte 750,8,Bodega Norte,6110.27,3596.49,43
+79,Golden Ale Rio Seco 6,9,Rio Seco,4110.18,2718.65,32
+80,Copa Cristal Finca Sur 2,10,Finca Sur,12621.34,4801.85,60
+81,Syrah Rio Seco 750,1,Rio Seco,10829.9,6584.7,119
+82,Torrontes Viña Central 750,2,Viña Central,16440.15,9730.53,99
+83,Rosado Malbec Bodega Norte 750,3,Bodega Norte,11619.24,6814.58,153
+84,Rose Espumante La Reserva 750,4,La Reserva,17166.95,10274.12,35
+85,Single Malt Bodega Norte 750,5,Bodega Norte,74474.87,53051.53,85
+86,London Dry Casa Andina 750,6,Casa Andina,29377.01,17798.11,53
+87,Vodka Clasico Rio Seco 750,7,Rio Seco,14962.96,8597.51,50
+88,Vermut Bianco Valle Azul 750,8,Valle Azul,3879.31,2141.55,109
+89,IPA Valle Azul 1,9,Valle Azul,2271.6,1553.77,109
+90,Decanter Valle Azul 1,10,Valle Azul,14851.49,7180.82,204
+91,Cabernet Sauvignon La Reserva 750,1,La Reserva,14290.14,9715.25,44
+92,Blend Blanco La Reserva 750,2,La Reserva,9438.11,5719.78,90
+93,Rosado Dulce Valle Azul 750,3,Valle Azul,5562.12,3237.49,83
+94,Extra Brut La Reserva 750,4,La Reserva,27726.55,16359.1,114
+95,Bourbon Monte Claro 750,5,Monte Claro,65026.82,46081.69,71
+96,Gin Citrus Finca Sur 750,6,Finca Sur,21718.08,11949.08,35
+97,Vodka Citrus Casa Andina 750,7,Casa Andina,7949.03,5098.55,105
+98,Vermut Rosso Valle Azul 750,8,Valle Azul,4021.32,2079.44,14
+99,Golden Ale Bodega Norte 2,9,Bodega Norte,8092.04,5689.64,29
+100,Copa Cristal Viña Central 6,10,Viña Central,29631.7,11755.94,138

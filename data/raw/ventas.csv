@@ -1,0 +1,11 @@
+id_venta,fecha,producto,categoria,precio,cantidad,cliente_id
+1,2026-01-05,Malbec Reserva,Vino,18500,3,101
+2,2026-01-06,Gin London Dry,Gin,24000,2,102
+3,2026-01-06,Cabernet Sauvignon,Vino,15000,4,103
+4,2026-01-08,Malbec Reserva,Vino,18500,1,104
+5,2026-01-10,Vodka Premium,Vodka,21000,2,101
+6,2026-01-12,Gin London Dry,Gin,24000,1,105
+7,2026-01-15,Malbec Reserva,Vino,18500,6,102
+8,2026-01-16,Cabernet Sauvignon,Vino,15000,2,106
+9,2026-01-18,Vodka Premium,Vodka,21000,3,103
+10,2026-01-20,Gin London Dry,Gin,24000,4,101

@@ -1,0 +1,1001 @@
+cliente_id,nombre,email,provincia,fecha_registro,segmento
+1,Martin Sanchez,martin.sanchez.0001@example.com,Ciudad Autonoma de Buenos Aires,2025-10-02,ocasional
+2,Santiago Fernandez,santiago.fernandez.0002@example.com,Entre Rios,2022-01-14,frecuente
+3,Laura Fernandez,laura.fernandez.0003@example.com,CABA,2022-01-24,frecuente
+4,Julieta Acosta,julieta.acosta.0004@example.com,Santa Fe,2024-08-11,ocasional
+5,Sofia Silva,sofia.silva.0005@example.com,Rio Negro,2025-12-11,alto_valor
+6,Lucia Fernandez,lucia.fernandez.0006@example.com,Cordoba,2024-09-06,ocasional
+7,Mariana Garcia,mariana.garcia.0007@example.com,Santa Fe,2024-08-22,frecuente
+8,Gonzalo Rodriguez,gonzalo.rodriguez.0008@example.com,Buenos Aires,2026-06-01,ocasional
+9,Mariana Alvarez,mariana.alvarez.0009@example.com,Entre Rios,2022-08-18,ocasional
+10,Sofia Castro,sofia.castro.0010@example.com,cordoba,2024-12-01,frecuente
+11,Santiago Alvarez,santiago.alvarez.0011@example.com,Rio Negro,2024-07-01,ocasional
+12,Sofia Garcia,sofia.garcia.0012@example.com,Ciudad Autonoma de Buenos Aires,2025-10-09,ocasional
+13,Martin Diaz,martin.diaz.0013@example.com,Mendoza,2026-03-08,frecuente
+14,Natalia Fernandez,natalia.fernandez.0014@example.com,Santa Fe,2025-01-13,frecuente
+15,Carla Silva,carla.silva.0015@example.com,Capital Federal,2026-04-24,ocasional
+16,Natalia Fernandez,natalia.fernandez.0016@example.com,Salta,2024-02-23,ocasional
+17,Martin Garcia,martin.garcia.0017@example.com,Buenos Aires,2025-01-09,ocasional
+18,Diego Benitez,diego.benitez.0018@example.com,Salta,2024-03-15,ocasional
+19,Julieta Sanchez,julieta.sanchez.0019@example.com,Bs As,2024-08-06,ocasional
+20,Valentina Garcia,valentina.garcia.0020@example.com,Mendoza,2023-05-22,frecuente
+21,Gonzalo Silva,gonzalo.silva.0021@example.com,Neuquen,2026-04-17,ocasional
+22,Natalia Martinez,natalia.martinez.0022@example.com,Mendoza,2022-02-02,ocasional
+23,Camila Gomez,camila.gomez.0023@example.com,Cordoba,2022-04-10,ocasional
+24,Pablo Castro,pablo.castro.0024@example.com,CABA,2026-05-09,inactivo
+25,Lucia Castro,lucia.castro.0025@example.com,Mendoza,2026-02-07,ocasional
+26,Manuel Castro,manuel.castro.0026@example.com,Capital Federal,2024-04-26,ocasional
+27,Florencia Pereyra,florencia.pereyra.0027@example.com,Santa Fe,2025-02-12,ocasional
+28,Martin Rodriguez,martin.rodriguez.0028@example.com,CABA,2024-04-16,frecuente
+29,Valentina Gomez,valentina.gomez.0029@example.com,BUENOS AIRES,2022-10-23,inactivo
+30,Valentina Garcia,valentina.garcia.0030@example.com,Tucuman,2025-02-15,inactivo
+31,Laura Castro,laura.castro.0031@example.com,Ciudad Autonoma de Buenos Aires,2024-01-30,ocasional
+32,Gonzalo Acosta,gonzalo.acosta.0032@example.com,Buenos Aires,2025-05-19,inactivo
+33,Valentina Castro,valentina.castro.0033@example.com,CABA,2023-11-13,ocasional
+34,Gonzalo Silva,gonzalo.silva.0034@example.com,Buenos Aires,2026-03-10,ocasional
+35,Julieta Ramirez,julieta.ramirez.0035@example.com,Cordoba,2025-02-04,ocasional
+36,Pablo Lopez,pablo.lopez.0036@example.com,cordoba,2024-11-16,inactivo
+37,Santiago Rodriguez,santiago.rodriguez.0037@example.com,Mendoza,2023-02-21,inactivo
+38,Julieta Ramirez,julieta.ramirez.0038@example.com,BUENOS AIRES,2025-04-01,frecuente
+39,Gonzalo Fernandez,gonzalo.fernandez.0039@example.com,Buenos Aires,2023-05-19,ocasional
+40,Manuel Diaz,manuel.diaz.0040@example.com,Mendoza,2024-09-27,ocasional
+41,Santiago Gomez,santiago.gomez.0041@example.com,Buenos Aires,2022-12-13,ocasional
+42,Florencia Silva,florencia.silva.0042@example.com,Rio Negro,2025-08-07,ocasional
+43,CARLA SANCHEZ,carla.sanchez.0043@example.com,Santa Fe,2026-04-15,alto_valor
+44,Federico Sanchez,federico.sanchez.0044@example.com,Cordoba,2022-01-19,ocasional
+45,camila martinez,camila.martinez.0045@example.com,Cordoba,2024-09-16,ocasional
+46,valentina lopez,valentina.lopez.0046@example.com,caba,2025-01-02,alto_valor
+47,Natalia Rodriguez,natalia.rodriguez.0047@example.com,Entre Rios,2023-01-03,inactivo
+48,Federico Castro,federico.castro.0048@example.com,Buenos Aires,2026-07-28,ocasional
+49,Carla Fernandez,carla.fernandez.0049@example.com,Tucuman,2024-07-29,inactivo
+50,Julieta Diaz,julieta.diaz.0050@example.com,Santa Fe,2022-06-15,inactivo
+51,camila alvarez,camila.alvarez.0051@example.com,CABA,2024-09-01,ocasional
+52,Florencia Alvarez,florencia.alvarez.0052@example.com,CABA,2026-05-26,ocasional
+53,Diego Silva,diego.silva.0053@example.com,Capital Federal,2025-11-18,inactivo
+54,Camila Silva,camila.silva.0054@example.com,Buenos Aires,2025-01-17,ocasional
+55,Manuel Acosta,manuel.acosta.0055@example.com,Tucuman,2025-04-17,frecuente
+56,Martin Silva,martin.silva.0056@example.com,Buenos Aires,2025-03-06,ocasional
+57,Valentina Fernandez,valentina.fernandez.0057@example.com,CABA,2026-06-07,frecuente
+58,Sofia Ramirez,sofia.ramirez.0058@example.com,Salta,2022-04-20,frecuente
+59,Carla Fernandez,carla.fernandez.0059@example.com,Cordoba,2025-05-04,ocasional
+60,Agustina Pereyra,agustina.pereyra.0060@example.com,Buenos Aires,2024-10-01,ocasional
+61,Martin Garcia,martin.garcia.0061@example.com,Buenos Aires,2024-02-18,ocasional
+62,Julieta Ramirez,julieta.ramirez.0062@example.com,Bs As,2025-12-28,ocasional
+63,Martin Fernandez,martin.fernandez.0063@example.com,caba,2024-06-29,frecuente
+64,Federico Alvarez,federico.alvarez.0064@example.com,Buenos Aires,2025-02-10,frecuente
+65,Carla Fernandez,carla.fernandez.0065@example.com,Cordoba,2026-05-26,ocasional
+66,Lucia Garcia,lucia.garcia.0066@example.com,Capital Federal,2025-03-17,alto_valor
+67,Florencia Benitez,florencia.benitez.0067@example.com,Buenos Aires,2022-05-10,ocasional
+68,Lucia Gomez,lucia.gomez.0068@example.com,Mendoza,2024-01-10,alto_valor
+69,Santiago Martinez,santiago.martinez.0069@example.com,Cordoba,2022-10-05,ocasional
+70,Manuel Sanchez,manuel.sanchez.0070@example.com,Cordoba,2023-11-06,frecuente
+71,Federico Diaz,federico.diaz.0071@example.com,CABA,2023-02-16,inactivo
+72,Martin Fernandez,martin.fernandez.0072@example.com,Buenos Aires,2024-10-02,ocasional
+73,Manuel Garcia,manuel.garcia.0073@example.com,Buenos Aires,2024-01-18,ocasional
+74,Valentina Benitez,valentina.benitez.0074@example.com,Santa Fe,2025-01-31,frecuente
+75,Gonzalo Gomez,gonzalo.gomez.0075@example.com,Mendoza,2025-11-19,ocasional
+76,Natalia Pereyra,natalia.pereyra.0076@example.com,CABA,2023-05-11,inactivo
+77,Natalia Rodriguez,natalia.rodriguez.0077@example.com,CABA,2025-05-09,ocasional
+78,Sofia Silva,sofia.silva.0078@example.com,Entre Rios,2025-11-17,ocasional
+79,Mariana Ramirez,mariana.ramirez.0079@example.com,Rio Negro,2025-01-04,ocasional
+80,Diego Rodriguez,diego.rodriguez.0080@example.com,Buenos Aires,2022-12-07,frecuente
+81,MARTIN RODRIGUEZ,martin.rodriguez.0081@example.com,CABA,2022-08-05,inactivo
+82,Laura Castro,laura.castro.0082@example.com,CABA,2025-04-03,inactivo
+83,Mariana Garcia,mariana.garcia.0083@example.com,CABA,2025-11-15,inactivo
+84,Agustina Gomez,agustina.gomez.0084@example.com,Buenos Aires,2022-06-25,ocasional
+85,Federico Fernandez,federico.fernandez.0085@example.com,CABA,2023-02-28,inactivo
+86,Diego Gomez,diego.gomez.0086@example.com,Santa Fe,2024-07-15,ocasional
+87,Diego Acosta,diego.acosta.0087@example.com,Neuquen,2025-08-20,ocasional
+88,Julieta Lopez,julieta.lopez.0088@example.com,BUENOS AIRES,2024-05-23,frecuente
+89,Martin Pereyra,martin.pereyra.0089@example.com,Buenos Aires,2024-06-04,ocasional
+90,Gonzalo Gomez,gonzalo.gomez.0090@example.com,Cordoba,2025-12-14,frecuente
+91,Carla Martinez,carla.martinez.0091@example.com,Buenos Aires,2023-01-18,ocasional
+92,Diego Diaz,diego.diaz.0092@example.com,Santa Fe,2024-09-29,ocasional
+93,Martin Martinez,martin.martinez.0093@example.com,caba,2024-07-26,ocasional
+94,Lucia Silva,lucia.silva.0094@example.com,Cordoba,2023-10-04,ocasional
+95,Florencia Fernandez,florencia.fernandez.0095@example.com,Santa Fe,2024-11-12,ocasional
+96,Martin Garcia,martin.garcia.0096@example.com,Buenos Aires,2025-11-21,frecuente
+97,Florencia Lopez,florencia.lopez.0097@example.com,Buenos Aires,2023-10-07,ocasional
+98,Mariana Acosta,mariana.acosta.0098@example.com,Ciudad Autonoma de Buenos Aires,2025-02-24,ocasional
+99,Santiago Garcia,santiago.garcia.0099@example.com,Santa Fe,2024-06-28,frecuente
+100,Agustina Rodriguez,agustina.rodriguez.0100@example.com,Mendoza,2023-08-22,ocasional
+101,Lucia Benitez,lucia.benitez.0101@example.com,Mendoza,2025-03-04,ocasional
+102,Valentina Lopez,valentina.lopez.0102@example.com,BUENOS AIRES,2024-01-22,ocasional
+103,Pablo Lopez,pablo.lopez.0103@example.com,Buenos Aires,2026-02-16,ocasional
+104,Lucia Sanchez,lucia.sanchez.0104@example.com,Salta,2024-07-10,ocasional
+105,Carla Gomez,carla.gomez.0105@example.com,Neuquen,2022-08-29,ocasional
+106,Mariana Sanchez,mariana.sanchez.0106@example.com,Santa Fe,2025-07-19,ocasional
+107,Gonzalo Sanchez,gonzalo.sanchez.0107@example.com,Bs As,2024-12-26,ocasional
+108,Manuel Ramirez,manuel.ramirez.0108@example.com,Buenos Aires,2024-11-19,ocasional
+109,Diego Benitez,diego.benitez.0109@example.com,Tucuman,2026-05-29,inactivo
+110,Laura Sanchez,laura.sanchez.0110@example.com,Cordoba,2022-09-29,ocasional
+111,Julieta Rodriguez,julieta.rodriguez.0111@example.com,Neuquen,2024-03-15,ocasional
+112,Laura Pereyra,laura.pereyra.0112@example.com,CABA,2025-07-21,ocasional
+113,Martin Lopez,martin.lopez.0113@example.com,Santa Fe,2025-11-23,ocasional
+114,Santiago Fernandez,santiago.fernandez.0114@example.com,Cordoba,2026-02-09,ocasional
+115,Mariana Sanchez,mariana.sanchez.0115@example.com,Buenos Aires,2023-03-23,ocasional
+116,Santiago Diaz,santiago.diaz.0116@example.com,Capital Federal,2025-03-05,ocasional
+117,CAMILA ACOSTA,camila.acosta.0117@example.com,Buenos Aires,2024-07-30,frecuente
+118,Florencia Gomez,florencia.gomez.0118@example.com,CABA,2024-05-26,alto_valor
+119,Federico Silva,federico.silva.0119@example.com,cordoba,2022-07-11,alto_valor
+120,Mariana Pereyra,mariana.pereyra.0120@example.com,Rio Negro,2022-12-05,inactivo
+121,Julieta Garcia,julieta.garcia.0121@example.com,Cordoba,2022-01-03,frecuente
+122,JULIETA LOPEZ,julieta.lopez.0122@example.com,Santa Fe,2022-01-20,frecuente
+123,Manuel Sanchez,manuel.sanchez.0123@example.com,Buenos Aires,2025-11-22,ocasional
+124,Martin Alvarez,martin.alvarez.0124@example.com,Santa Fe,2022-07-29,ocasional
+125,Lucia Benitez,lucia.benitez.0125@example.com,CABA,2022-09-30,ocasional
+126,Carla Lopez,carla.lopez.0126@example.com,Cordoba,2022-12-03,inactivo
+127,Federico Silva,federico.silva.0127@example.com,CABA,2023-03-21,ocasional
+128,Diego Martinez,diego.martinez.0128@example.com,Santa Fe,2023-12-21,ocasional
+129,Federico Castro,federico.castro.0129@example.com,BUENOS AIRES,2025-05-15,ocasional
+130,Agustina Sanchez,agustina.sanchez.0130@example.com,Neuquen,2023-09-10,ocasional
+131,Gonzalo Ramirez,gonzalo.ramirez.0131@example.com,CABA,2026-05-25,inactivo
+132,Santiago Garcia,santiago.garcia.0132@example.com,Buenos Aires,2025-05-01,ocasional
+133,Agustina Fernandez,agustina.fernandez.0133@example.com,Entre Rios,2022-09-28,ocasional
+134,Natalia Fernandez,natalia.fernandez.0134@example.com,cordoba,2026-04-27,ocasional
+135,Agustina Diaz,agustina.diaz.0135@example.com,Buenos Aires,2026-06-05,inactivo
+136,Sofia Rodriguez,sofia.rodriguez.0136@example.com,CABA,2022-06-18,ocasional
+137,Federico Diaz,federico.diaz.0137@example.com,Buenos Aires,2026-07-13,ocasional
+138,Carla Diaz,carla.diaz.0138@example.com,Santa Fe,2026-02-03,frecuente
+139,Julieta Alvarez,julieta.alvarez.0139@example.com,Entre Rios,2022-08-26,ocasional
+140,lucia pereyra,lucia.pereyra.0140@example.com,Santa Fe,2026-02-25,frecuente
+141,Federico Ramirez,federico.ramirez.0141@example.com,Buenos Aires,2023-12-12,ocasional
+142,Laura Benitez,laura.benitez.0142@example.com,CABA,2023-07-05,inactivo
+143,Agustina Fernandez,agustina.fernandez.0143@example.com,Mendoza,2023-07-12,ocasional
+144,Carla Gomez,carla.gomez.0144@example.com,CABA,2024-10-20,inactivo
+145,Florencia Diaz,florencia.diaz.0145@example.com,Mendoza,2025-03-21,ocasional
+146,Sofia Acosta,sofia.acosta.0146@example.com,Buenos Aires,2023-05-16,frecuente
+147,Federico Benitez,federico.benitez.0147@example.com,Entre Rios,2022-03-14,ocasional
+148,Natalia Castro,natalia.castro.0148@example.com,CABA,2026-01-15,inactivo
+149,Mariana Alvarez,mariana.alvarez.0149@example.com,CABA,2023-01-03,inactivo
+150,Camila Garcia,camila.garcia.0150@example.com,Buenos Aires,2023-08-02,ocasional
+151,Carla Lopez,carla.lopez.0151@example.com,CABA,2023-08-21,frecuente
+152,Julieta Gomez,julieta.gomez.0152@example.com,CABA,2026-05-02,frecuente
+153,VALENTINA RODRIGUEZ,valentina.rodriguez.0153@example.com,Mendoza,2022-11-05,ocasional
+154,natalia acosta,natalia.acosta.0154@example.com,BUENOS AIRES,2022-01-20,inactivo
+155,Martin Sanchez,martin.sanchez.0155@example.com,Santa Fe,2023-09-22,frecuente
+156,Julieta Garcia,julieta.garcia.0156@example.com,Capital Federal,2025-12-28,ocasional
+157,Julieta Silva,julieta.silva.0157@example.com,Neuquen,2024-04-25,inactivo
+158,Carla Martinez,carla.martinez.0158@example.com,Bs As,2022-06-03,ocasional
+159,Federico Castro,federico.castro.0159@example.com,Buenos Aires,2026-06-29,frecuente
+160,Manuel Fernandez,manuel.fernandez.0160@example.com,Capital Federal,2022-10-06,ocasional
+161,Federico Alvarez,federico.alvarez.0161@example.com,Buenos Aires,2024-04-12,ocasional
+162,Gonzalo Gomez,gonzalo.gomez.0162@example.com,CABA,2022-07-05,ocasional
+163,Camila Castro,camila.castro.0163@example.com,Mendoza,2023-11-03,ocasional
+164,Mariana Garcia,mariana.garcia.0164@example.com,CABA,2023-06-17,frecuente
+165,Martin Sanchez,martin.sanchez.0165@example.com,CABA,2023-05-27,ocasional
+166,Federico Alvarez,federico.alvarez.0166@example.com,Buenos Aires,2023-04-01,ocasional
+167,Mariana Pereyra,mariana.pereyra.0167@example.com,Cordoba,2025-04-07,ocasional
+168,Carla Acosta,carla.acosta.0168@example.com,Salta,2023-02-09,ocasional
+169,Federico Alvarez,federico.alvarez.0169@example.com,Rio Negro,2026-07-15,inactivo
+170,Pablo Acosta,pablo.acosta.0170@example.com,Buenos Aires,2026-08-10,inactivo
+171,Martin Pereyra,martin.pereyra.0171@example.com,CABA,2023-01-19,ocasional
+172,Federico Acosta,federico.acosta.0172@example.com,Cordoba,2025-08-18,ocasional
+173,Valentina Gomez,valentina.gomez.0173@example.com,Buenos Aires,2024-05-08,frecuente
+174,SOFIA CASTRO,sofia.castro.0174@example.com,Cordoba,2026-06-16,inactivo
+175,Martin Rodriguez,martin.rodriguez.0175@example.com,Santa Fe,2024-09-09,frecuente
+176,Sofia Fernandez,sofia.fernandez.0176@example.com,caba,2025-05-07,ocasional
+177,Laura Acosta,laura.acosta.0177@example.com,Mendoza,2024-08-24,ocasional
+178,Julieta Benitez,julieta.benitez.0178@example.com,Buenos Aires,2023-06-30,ocasional
+179,Camila Rodriguez,camila.rodriguez.0179@example.com,Salta,2023-03-26,alto_valor
+180,Martin Fernandez,martin.fernandez.0180@example.com,Entre Rios,2022-12-22,ocasional
+181,Mariana Silva,mariana.silva.0181@example.com,Cordoba,2023-12-22,frecuente
+182,Gonzalo Sanchez,gonzalo.sanchez.0182@example.com,Salta,2024-10-05,ocasional
+183,camila alvarez,camila.alvarez.0183@example.com,Buenos Aires,2022-02-10,frecuente
+184,Gonzalo Rodriguez,gonzalo.rodriguez.0184@example.com,Buenos Aires,2026-07-02,frecuente
+185,Agustina Benitez,agustina.benitez.0185@example.com,Cordoba,2026-05-05,ocasional
+186,Mariana Alvarez,mariana.alvarez.0186@example.com,CABA,2024-03-21,ocasional
+187,Manuel Benitez,manuel.benitez.0187@example.com,Salta,2026-02-08,ocasional
+188,Santiago Pereyra,santiago.pereyra.0188@example.com,CABA,2025-02-24,ocasional
+189,Mariana Castro,mariana.castro.0189@example.com,Santa Fe,2026-07-27,frecuente
+190,Lucia Benitez,lucia.benitez.0190@example.com,BUENOS AIRES,2025-03-19,ocasional
+191,Camila Benitez,camila.benitez.0191@example.com,Cordoba,2025-06-06,ocasional
+192,Santiago Benitez,santiago.benitez.0192@example.com,caba,2023-10-17,inactivo
+193,Carla Sanchez,carla.sanchez.0193@example.com,Santa Fe,2025-08-01,ocasional
+194,Agustina Diaz,agustina.diaz.0194@example.com,Buenos Aires,2023-12-19,ocasional
+195,Agustina Acosta,agustina.acosta.0195@example.com,CABA,2022-12-07,ocasional
+196,Martin Fernandez,martin.fernandez.0196@example.com,cordoba,2026-06-04,alto_valor
+197,Julieta Benitez,julieta.benitez.0197@example.com,CABA,2022-03-10,inactivo
+198,Diego Alvarez,diego.alvarez.0198@example.com,CABA,2022-11-26,ocasional
+199,Carla Fernandez,carla.fernandez.0199@example.com,Cordoba,2024-09-15,ocasional
+200,Florencia Martinez,florencia.martinez.0200@example.com,Rio Negro,2022-11-18,frecuente
+201,Gonzalo Garcia,gonzalo.garcia.0201@example.com,Santa Fe,2026-01-18,ocasional
+202,Lucia Diaz,lucia.diaz.0202@example.com,BUENOS AIRES,2025-01-30,ocasional
+203,Mariana Acosta,mariana.acosta.0203@example.com,Ciudad Autonoma de Buenos Aires,2023-02-13,inactivo
+204,Lucia Alvarez,lucia.alvarez.0204@example.com,Ciudad Autonoma de Buenos Aires,2024-08-22,ocasional
+205,Carla Pereyra,carla.pereyra.0205@example.com,cordoba,2024-01-27,frecuente
+206,Pablo Gomez,pablo.gomez.0206@example.com,Buenos Aires,2025-03-01,frecuente
+207,Diego Alvarez,diego.alvarez.0207@example.com,Santa Fe,2026-07-14,ocasional
+208,Julieta Lopez,julieta.lopez.0208@example.com,Buenos Aires,2024-12-06,ocasional
+209,Santiago Martinez,santiago.martinez.0209@example.com,Rio Negro,2024-09-02,ocasional
+210,Camila Lopez,camila.lopez.0210@example.com,Cordoba,2025-03-16,ocasional
+211,Diego Rodriguez,diego.rodriguez.0211@example.com,CABA,2022-12-09,ocasional
+212,Federico Acosta,federico.acosta.0212@example.com,CABA,2024-06-10,ocasional
+213,Federico Sanchez,federico.sanchez.0213@example.com,Córdoba,2026-07-12,ocasional
+214,Martin Lopez,martin.lopez.0214@example.com,Ciudad Autonoma de Buenos Aires,2022-01-26,ocasional
+215,Sofia Rodriguez,sofia.rodriguez.0215@example.com,CABA,2022-10-31,ocasional
+216,Diego Silva,diego.silva.0216@example.com,Buenos Aires,2026-05-29,frecuente
+217,Mariana Silva,mariana.silva.0217@example.com,CABA,2024-09-21,ocasional
+218,Florencia Diaz,florencia.diaz.0218@example.com,CABA,2025-10-26,inactivo
+219,manuel ramirez,manuel.ramirez.0219@example.com,Buenos Aires,2023-07-05,ocasional
+220,Lucia Diaz,lucia.diaz.0220@example.com,Buenos Aires,2025-11-26,inactivo
+221,Julieta Benitez,julieta.benitez.0221@example.com,CABA,2026-05-05,ocasional
+222,Natalia Martinez,natalia.martinez.0222@example.com,Cordoba,2024-04-13,inactivo
+223,Mariana Sanchez,mariana.sanchez.0223@example.com,Buenos Aires,2022-05-15,ocasional
+224,Federico Rodriguez,federico.rodriguez.0224@example.com,Neuquen,2025-03-10,ocasional
+225,Gonzalo Sanchez,gonzalo.sanchez.0225@example.com,Buenos Aires,2024-01-09,ocasional
+226,Pablo Lopez,pablo.lopez.0226@example.com,CABA,2025-10-27,ocasional
+227,Pablo Benitez,pablo.benitez.0227@example.com,Tucuman,2024-08-29,ocasional
+228,Florencia Sanchez,florencia.sanchez.0228@example.com,Rio Negro,2026-03-14,ocasional
+229,Agustina Garcia,agustina.garcia.0229@example.com,Buenos Aires,2026-05-17,ocasional
+230,JULIETA PEREYRA,julieta.pereyra.0230@example.com,Buenos Aires,2024-11-17,inactivo
+231,Agustina Gomez,agustina.gomez.0231@example.com,Entre Rios,2025-08-18,ocasional
+232,Julieta Diaz,julieta.diaz.0232@example.com,Cordoba,2025-12-30,ocasional
+233,Natalia Silva,natalia.silva.0233@example.com,caba,2023-03-23,frecuente
+234,Martin Martinez,martin.martinez.0234@example.com,Buenos Aires,2025-09-18,frecuente
+235,Valentina Pereyra,valentina.pereyra.0235@example.com,Córdoba,2022-08-10,ocasional
+236,Laura Pereyra,laura.pereyra.0236@example.com,caba,2023-01-21,ocasional
+237,Camila Rodriguez,camila.rodriguez.0237@example.com,Neuquen,2026-07-17,ocasional
+238,Federico Ramirez,federico.ramirez.0238@example.com,Buenos Aires,2023-08-29,frecuente
+239,Martin Ramirez,martin.ramirez.0239@example.com,Buenos Aires,2025-03-17,frecuente
+240,Julieta Pereyra,julieta.pereyra.0240@example.com,CABA,2025-10-07,inactivo
+241,Florencia Sanchez,florencia.sanchez.0241@example.com,Cordoba,2023-08-25,ocasional
+242,Laura Ramirez,laura.ramirez.0242@example.com,Mendoza,2026-04-12,ocasional
+243,Manuel Pereyra,manuel.pereyra.0243@example.com,Buenos Aires,2026-03-05,ocasional
+244,Manuel Fernandez,manuel.fernandez.0244@example.com,Buenos Aires,2024-08-21,inactivo
+245,Carla Gomez,carla.gomez.0245@example.com,Rio Negro,2024-10-21,inactivo
+246,Sofia Diaz,sofia.diaz.0246@example.com,CABA,2022-11-05,ocasional
+247,Natalia Martinez,natalia.martinez.0247@example.com,Rio Negro,2024-07-26,inactivo
+248,florencia rodriguez,florencia.rodriguez.0248@example.com,Buenos Aires,2023-10-04,frecuente
+249,Laura Castro,laura.castro.0249@example.com,Mendoza,2022-12-12,ocasional
+250,Carla Benitez,carla.benitez.0250@example.com,Cordoba,2024-04-06,ocasional
+251,Agustina Acosta,agustina.acosta.0251@example.com,CABA,2022-01-29,frecuente
+252,Sofia Castro,sofia.castro.0252@example.com,BUENOS AIRES,2023-05-25,ocasional
+253,Lucia Benitez,lucia.benitez.0253@example.com,Buenos Aires,2023-09-19,frecuente
+254,Lucia Diaz,lucia.diaz.0254@example.com,CABA,2024-12-09,ocasional
+255,Federico Fernandez,federico.fernandez.0255@example.com,Salta,2024-09-30,ocasional
+256,martin acosta,martin.acosta.0256@example.com,Buenos Aires,2022-09-26,ocasional
+257,Sofia Benitez,sofia.benitez.0257@example.com,Buenos Aires,2026-06-11,ocasional
+258,Laura Rodriguez,laura.rodriguez.0258@example.com,CABA,2025-09-17,frecuente
+259,Camila Ramirez,camila.ramirez.0259@example.com,Buenos Aires,2022-09-11,ocasional
+260,FEDERICO CASTRO,federico.castro.0260@example.com,Santa Fe,2025-07-14,frecuente
+261,Natalia Pereyra,natalia.pereyra.0261@example.com,Buenos Aires,2025-06-29,ocasional
+262,Diego Lopez,diego.lopez.0262@example.com,Santa Fe,2022-08-30,ocasional
+263,Santiago Castro,santiago.castro.0263@example.com,Cordoba,2024-12-07,ocasional
+264,Natalia Diaz,natalia.diaz.0264@example.com,Buenos Aires,2023-03-02,ocasional
+265,Julieta Acosta,julieta.acosta.0265@example.com,Buenos Aires,2025-03-21,ocasional
+266,Carla Rodriguez,carla.rodriguez.0266@example.com,CABA,2022-07-27,ocasional
+267,Pablo Diaz,pablo.diaz.0267@example.com,Buenos Aires,2022-03-22,ocasional
+268,Manuel Garcia,manuel.garcia.0268@example.com,Santa Fe,2022-07-14,ocasional
+269,Agustina Sanchez,agustina.sanchez.0269@example.com,Buenos Aires,2023-11-05,ocasional
+270,Laura Silva,laura.silva.0270@example.com,Santa Fe,2024-02-03,alto_valor
+271,Martin Garcia,martin.garcia.0271@example.com,Tucuman,2023-07-11,ocasional
+272,Santiago Rodriguez,santiago.rodriguez.0272@example.com,CABA,2022-12-08,ocasional
+273,Camila Sanchez,camila.sanchez.0273@example.com,Buenos Aires,2025-04-24,inactivo
+274,Pablo Benitez,pablo.benitez.0274@example.com,Cordoba,2025-06-06,ocasional
+275,Federico Gomez,federico.gomez.0275@example.com,Entre Rios,2022-08-20,frecuente
+276,Carla Diaz,carla.diaz.0276@example.com,Córdoba,2024-12-10,frecuente
+277,Julieta Pereyra,julieta.pereyra.0277@example.com,Neuquen,2024-11-29,ocasional
+278,Diego Garcia,diego.garcia.0278@example.com,Santa Fe,2023-05-25,frecuente
+279,Martin Benitez,martin.benitez.0279@example.com,Mendoza,2025-02-17,ocasional
+280,Agustina Pereyra,agustina.pereyra.0280@example.com,Entre Rios,2024-11-01,inactivo
+281,Florencia Alvarez,florencia.alvarez.0281@example.com,Santa Fe,2023-10-19,frecuente
+282,Camila Lopez,camila.lopez.0282@example.com,Buenos Aires,2024-04-05,ocasional
+283,Pablo Rodriguez,pablo.rodriguez.0283@example.com,cordoba,2024-07-04,ocasional
+284,Agustina Alvarez,agustina.alvarez.0284@example.com,CABA,2022-07-06,ocasional
+285,Lucia Silva,lucia.silva.0285@example.com,Ciudad Autonoma de Buenos Aires,2023-11-30,frecuente
+286,Julieta Sanchez,julieta.sanchez.0286@example.com,CABA,2025-06-23,ocasional
+287,Mariana Ramirez,mariana.ramirez.0287@example.com,Capital Federal,2022-01-05,ocasional
+288,Lucia Lopez,lucia.lopez.0288@example.com,CABA,2022-04-04,inactivo
+289,Natalia Alvarez,natalia.alvarez.0289@example.com,Buenos Aires,2024-03-15,ocasional
+290,Gonzalo Ramirez,gonzalo.ramirez.0290@example.com,CABA,2022-04-06,inactivo
+291,Diego Rodriguez,diego.rodriguez.0291@example.com,Rio Negro,2024-07-25,frecuente
+292,Federico Gomez,federico.gomez.0292@example.com,Buenos Aires,2025-02-07,ocasional
+293,Santiago Silva,santiago.silva.0293@example.com,CABA,2022-12-29,alto_valor
+294,Federico Alvarez,federico.alvarez.0294@example.com,CABA,2023-10-22,frecuente
+295,Julieta Diaz,julieta.diaz.0295@example.com,caba,2024-07-16,ocasional
+296,Sofia Diaz,sofia.diaz.0296@example.com,Neuquen,2025-01-26,ocasional
+297,Valentina Pereyra,valentina.pereyra.0297@example.com,BUENOS AIRES,2023-08-19,ocasional
+298,Federico Ramirez,federico.ramirez.0298@example.com,Cordoba,2024-10-28,ocasional
+299,Diego Rodriguez,diego.rodriguez.0299@example.com,CABA,2025-03-14,frecuente
+300,Valentina Diaz,valentina.diaz.0300@example.com,Neuquen,2024-05-15,ocasional
+301,Agustina Garcia,agustina.garcia.0301@example.com,Buenos Aires,2023-02-14,ocasional
+302,Lucia Pereyra,lucia.pereyra.0302@example.com,Buenos Aires,2025-11-15,frecuente
+303,Valentina Acosta,valentina.acosta.0303@example.com,CABA,2025-06-15,ocasional
+304,Julieta Ramirez,julieta.ramirez.0304@example.com,Cordoba,2024-11-12,ocasional
+305,Lucia Ramirez,lucia.ramirez.0305@example.com,Santa Fe,2024-02-21,ocasional
+306,Manuel Lopez,manuel.lopez.0306@example.com,Buenos Aires,2023-02-20,ocasional
+307,Pablo Sanchez,pablo.sanchez.0307@example.com,Buenos Aires,2025-12-24,frecuente
+308,Valentina Ramirez,valentina.ramirez.0308@example.com,Cordoba,2023-02-01,inactivo
+309,Carla Benitez,carla.benitez.0309@example.com,Tucuman,2026-02-14,frecuente
+310,NATALIA DIAZ,natalia.diaz.0310@example.com,Córdoba,2023-06-07,frecuente
+311,Pablo Ramirez,pablo.ramirez.0311@example.com,Entre Rios,2022-03-23,inactivo
+312,Camila Rodriguez,camila.rodriguez.0312@example.com,Entre Rios,2025-06-14,ocasional
+313,Valentina Fernandez,valentina.fernandez.0313@example.com,Buenos Aires,2024-12-12,ocasional
+314,Carla Rodriguez,carla.rodriguez.0314@example.com,CABA,2025-01-04,ocasional
+315,Gonzalo Pereyra,gonzalo.pereyra.0315@example.com,CABA,2023-03-24,frecuente
+316,SANTIAGO LOPEZ,santiago.lopez.0316@example.com,Mendoza,2025-08-22,ocasional
+317,Mariana Gomez,mariana.gomez.0317@example.com,Buenos Aires,2025-06-26,ocasional
+318,Manuel Garcia,manuel.garcia.0318@example.com,Entre Rios,2022-08-21,frecuente
+319,Lucia Acosta,lucia.acosta.0319@example.com,Entre Rios,2026-08-11,ocasional
+320,Sofia Gomez,sofia.gomez.0320@example.com,Capital Federal,2023-10-19,frecuente
+321,Florencia Rodriguez,florencia.rodriguez.0321@example.com,CABA,2023-03-08,ocasional
+322,Natalia Sanchez,natalia.sanchez.0322@example.com,Buenos Aires,2025-12-10,ocasional
+323,Natalia Pereyra,natalia.pereyra.0323@example.com,Mendoza,2022-05-28,ocasional
+324,Pablo Ramirez,pablo.ramirez.0324@example.com,CABA,2022-12-31,ocasional
+325,Julieta Silva,julieta.silva.0325@example.com,Buenos Aires,2025-07-14,ocasional
+326,Martin Pereyra,martin.pereyra.0326@example.com,BUENOS AIRES,2025-06-20,ocasional
+327,Camila Ramirez,camila.ramirez.0327@example.com,Neuquen,2024-01-03,ocasional
+328,Lucia Martinez,lucia.martinez.0328@example.com,Buenos Aires,2024-06-15,frecuente
+329,Agustina Gomez,agustina.gomez.0329@example.com,BUENOS AIRES,2024-03-11,ocasional
+330,Lucia Pereyra,lucia.pereyra.0330@example.com,Buenos Aires,2026-06-17,ocasional
+331,agustina lopez,agustina.lopez.0331@example.com,Neuquen,2022-10-17,ocasional
+332,Martin Lopez,martin.lopez.0332@example.com,Cordoba,2026-03-13,ocasional
+333,Gonzalo Garcia,gonzalo.garcia.0333@example.com,Rio Negro,2024-11-15,ocasional
+334,Laura Castro,laura.castro.0334@example.com,Buenos Aires,2025-03-07,ocasional
+335,Valentina Gomez,valentina.gomez.0335@example.com,Córdoba,2022-05-18,inactivo
+336,Santiago Fernandez,santiago.fernandez.0336@example.com,CABA,2023-04-26,frecuente
+337,Gonzalo Fernandez,gonzalo.fernandez.0337@example.com,caba,2025-11-21,inactivo
+338,Mariana Rodriguez,mariana.rodriguez.0338@example.com,CABA,2022-01-10,ocasional
+339,Natalia Diaz,natalia.diaz.0339@example.com,Neuquen,2022-10-03,ocasional
+340,Santiago Gomez,santiago.gomez.0340@example.com,CABA,2024-09-24,ocasional
+341,Carla Sanchez,carla.sanchez.0341@example.com,Buenos Aires,2025-01-08,ocasional
+342,Carla Ramirez,carla.ramirez.0342@example.com,BUENOS AIRES,2025-07-17,frecuente
+343,Martin Rodriguez,martin.rodriguez.0343@example.com,Cordoba,2025-02-03,ocasional
+344,Valentina Gomez,valentina.gomez.0344@example.com,cordoba,2023-04-03,ocasional
+345,lucia benitez,lucia.benitez.0345@example.com,CABA,2024-03-23,frecuente
+346,Julieta Sanchez,julieta.sanchez.0346@example.com,Tucuman,2025-06-11,inactivo
+347,Federico Gomez,federico.gomez.0347@example.com,Buenos Aires,2025-03-04,ocasional
+348,Santiago Fernandez,santiago.fernandez.0348@example.com,Buenos Aires,2023-04-20,frecuente
+349,Camila Pereyra,camila.pereyra.0349@example.com,Buenos Aires,2024-01-10,ocasional
+350,Camila Acosta,camila.acosta.0350@example.com,Salta,2023-10-26,frecuente
+351,Laura Sanchez,laura.sanchez.0351@example.com,Santa Fe,2025-03-31,ocasional
+352,Martin Fernandez,martin.fernandez.0352@example.com,Cordoba,2022-06-09,ocasional
+353,Julieta Lopez,julieta.lopez.0353@example.com,CABA,2023-12-08,frecuente
+354,Agustina Lopez,agustina.lopez.0354@example.com,Rio Negro,2024-06-19,ocasional
+355,Laura Castro,laura.castro.0355@example.com,BUENOS AIRES,2026-01-09,ocasional
+356,Natalia Rodriguez,natalia.rodriguez.0356@example.com,Ciudad Autonoma de Buenos Aires,2024-09-08,inactivo
+357,Natalia Acosta,natalia.acosta.0357@example.com,BUENOS AIRES,2022-11-26,ocasional
+358,Federico Acosta,federico.acosta.0358@example.com,Buenos Aires,2024-11-24,frecuente
+359,Agustina Silva,agustina.silva.0359@example.com,Santa Fe,2025-09-17,frecuente
+360,Gonzalo Gomez,gonzalo.gomez.0360@example.com,Cordoba,2024-09-13,ocasional
+361,Federico Rodriguez,federico.rodriguez.0361@example.com,Cordoba,2025-06-30,frecuente
+362,Manuel Silva,manuel.silva.0362@example.com,CABA,2023-04-16,frecuente
+363,Agustina Castro,agustina.castro.0363@example.com,CABA,2025-11-02,ocasional
+364,Diego Benitez,diego.benitez.0364@example.com,CABA,2022-03-21,frecuente
+365,Diego Alvarez,diego.alvarez.0365@example.com,CABA,2026-05-06,inactivo
+366,Natalia Fernandez,natalia.fernandez.0366@example.com,Neuquen,2025-11-29,ocasional
+367,Santiago Rodriguez,santiago.rodriguez.0367@example.com,Mendoza,2023-12-19,ocasional
+368,Diego Garcia,diego.garcia.0368@example.com,Buenos Aires,2023-04-22,ocasional
+369,VALENTINA GARCIA,valentina.garcia.0369@example.com,BUENOS AIRES,2026-06-05,ocasional
+370,Sofia Alvarez,sofia.alvarez.0370@example.com,CABA,2023-02-25,ocasional
+371,Mariana Alvarez,mariana.alvarez.0371@example.com,Buenos Aires,2023-06-04,inactivo
+372,Mariana Martinez,mariana.martinez.0372@example.com,Buenos Aires,2026-03-27,ocasional
+373,Valentina Gomez,valentina.gomez.0373@example.com,Buenos Aires,2024-09-17,inactivo
+374,Mariana Rodriguez,mariana.rodriguez.0374@example.com,Santa Fe,2026-02-15,ocasional
+375,Diego Ramirez,diego.ramirez.0375@example.com,Buenos Aires,2022-11-28,inactivo
+376,Manuel Rodriguez,manuel.rodriguez.0376@example.com,Cordoba,2025-12-18,ocasional
+377,Agustina Rodriguez,agustina.rodriguez.0377@example.com,BUENOS AIRES,2024-06-10,ocasional
+378,Mariana Alvarez,mariana.alvarez.0378@example.com,Cordoba,2024-03-31,ocasional
+379,camila rodriguez,camila.rodriguez.0379@example.com,Mendoza,2025-08-04,ocasional
+380,Sofia Diaz,sofia.diaz.0380@example.com,Buenos Aires,2024-11-11,ocasional
+381,Florencia Pereyra,florencia.pereyra.0381@example.com,Buenos Aires,2022-11-19,ocasional
+382,Martin Fernandez,martin.fernandez.0382@example.com,Santa Fe,2024-04-10,ocasional
+383,Carla Silva,carla.silva.0383@example.com,BUENOS AIRES,2025-04-08,frecuente
+384,LAURA CASTRO,laura.castro.0384@example.com,cordoba,2025-03-23,ocasional
+385,Florencia Garcia,florencia.garcia.0385@example.com,CABA,2024-10-27,alto_valor
+386,Sofia Diaz,sofia.diaz.0386@example.com,Neuquen,2026-07-24,ocasional
+387,Pablo Garcia,pablo.garcia.0387@example.com,Cordoba,2026-04-01,ocasional
+388,Pablo Silva,pablo.silva.0388@example.com,Cordoba,2023-06-13,ocasional
+389,Julieta Pereyra,julieta.pereyra.0389@example.com,Santa Fe,2026-06-27,inactivo
+390,Sofia Lopez,sofia.lopez.0390@example.com,Buenos Aires,2023-05-24,frecuente
+391,Manuel Alvarez,manuel.alvarez.0391@example.com,cordoba,2023-12-26,ocasional
+392,Florencia Ramirez,florencia.ramirez.0392@example.com,Santa Fe,2023-01-25,ocasional
+393,Julieta Sanchez,julieta.sanchez.0393@example.com,Buenos Aires,2025-06-20,ocasional
+394,Diego Silva,diego.silva.0394@example.com,Buenos Aires,2024-10-05,inactivo
+395,Valentina Acosta,valentina.acosta.0395@example.com,Neuquen,2024-01-31,ocasional
+396,Laura Gomez,laura.gomez.0396@example.com,Buenos Aires,2024-11-12,alto_valor
+397,Federico Acosta,federico.acosta.0397@example.com,CABA,2025-01-12,inactivo
+398,Florencia Gomez,florencia.gomez.0398@example.com,Salta,2025-12-01,ocasional
+399,Agustina Acosta,agustina.acosta.0399@example.com,Santa Fe,2024-02-17,frecuente
+400,Laura Benitez,laura.benitez.0400@example.com,cordoba,2025-06-09,ocasional
+401,Natalia Castro,natalia.castro.0401@example.com,CABA,2024-01-18,ocasional
+402,Florencia Martinez,florencia.martinez.0402@example.com,Buenos Aires,2023-04-14,inactivo
+403,Julieta Lopez,julieta.lopez.0403@example.com,CABA,2022-10-26,ocasional
+404,Santiago Rodriguez,santiago.rodriguez.0404@example.com,Buenos Aires,2022-10-03,ocasional
+405,Sofia Lopez,sofia.lopez.0405@example.com,Santa Fe,2026-05-28,ocasional
+406,Camila Garcia,camila.garcia.0406@example.com,Buenos Aires,2026-07-25,inactivo
+407,Diego Gomez,diego.gomez.0407@example.com,Santa Fe,2023-06-17,frecuente
+408,Laura Fernandez,laura.fernandez.0408@example.com,BUENOS AIRES,2025-05-25,ocasional
+409,Valentina Benitez,valentina.benitez.0409@example.com,Salta,2023-08-06,alto_valor
+410,Santiago Rodriguez,santiago.rodriguez.0410@example.com,Santa Fe,2022-06-10,ocasional
+411,Federico Sanchez,federico.sanchez.0411@example.com,Buenos Aires,2023-11-22,inactivo
+412,Martin Sanchez,martin.sanchez.0412@example.com,Rio Negro,2022-06-12,ocasional
+413,Manuel Pereyra,manuel.pereyra.0413@example.com,BUENOS AIRES,2024-03-20,ocasional
+414,Mariana Ramirez,mariana.ramirez.0414@example.com,Cordoba,2024-04-27,ocasional
+415,Federico Ramirez,federico.ramirez.0415@example.com,BUENOS AIRES,2025-12-06,inactivo
+416,Martin Alvarez,martin.alvarez.0416@example.com,Buenos Aires,2024-08-27,ocasional
+417,Martin Lopez,martin.lopez.0417@example.com,Mendoza,2022-06-20,ocasional
+418,Carla Pereyra,carla.pereyra.0418@example.com,Entre Rios,2024-03-09,ocasional
+419,Lucia Gomez,lucia.gomez.0419@example.com,Cordoba,2022-02-28,frecuente
+420,Manuel Sanchez,manuel.sanchez.0420@example.com,CABA,2025-01-12,ocasional
+421,Federico Ramirez,federico.ramirez.0421@example.com,CABA,2024-07-24,ocasional
+422,Natalia Lopez,natalia.lopez.0422@example.com,Cordoba,2023-12-13,ocasional
+423,carla gomez,carla.gomez.0423@example.com,CABA,2022-11-15,ocasional
+424,Federico Fernandez,federico.fernandez.0424@example.com,Buenos Aires,2025-11-09,ocasional
+425,Santiago Diaz,santiago.diaz.0425@example.com,Buenos Aires,2023-08-23,ocasional
+426,Valentina Fernandez,valentina.fernandez.0426@example.com,Buenos Aires,2024-06-14,inactivo
+427,Martin Sanchez,martin.sanchez.0427@example.com,Ciudad Autonoma de Buenos Aires,2025-07-04,inactivo
+428,Laura Diaz,laura.diaz.0428@example.com,Cordoba,2023-07-05,ocasional
+429,Florencia Benitez,florencia.benitez.0429@example.com,Buenos Aires,2025-06-19,frecuente
+430,Santiago Castro,santiago.castro.0430@example.com,CABA,2023-01-16,frecuente
+431,FEDERICO RAMIREZ,federico.ramirez.0431@example.com,CABA,2022-11-05,ocasional
+432,Gonzalo Fernandez,gonzalo.fernandez.0432@example.com,CABA,2024-10-17,inactivo
+433,Camila Fernandez,camila.fernandez.0433@example.com,Buenos Aires,2022-10-27,ocasional
+434,carla lopez,carla.lopez.0434@example.com,caba,2026-08-01,ocasional
+435,Julieta Garcia,julieta.garcia.0435@example.com,Mendoza,2024-06-26,ocasional
+436,Gonzalo Gomez,gonzalo.gomez.0436@example.com,Santa Fe,2022-07-12,frecuente
+437,Santiago Garcia,santiago.garcia.0437@example.com,Santa Fe,2023-10-02,ocasional
+438,Camila Ramirez,camila.ramirez.0438@example.com,Entre Rios,2024-12-02,frecuente
+439,Lucia Castro,lucia.castro.0439@example.com,Capital Federal,2022-08-20,ocasional
+440,Agustina Benitez,agustina.benitez.0440@example.com,Mendoza,2025-04-12,ocasional
+441,Agustina Acosta,agustina.acosta.0441@example.com,Cordoba,2025-11-10,ocasional
+442,Carla Castro,carla.castro.0442@example.com,BUENOS AIRES,2023-11-25,frecuente
+443,Camila Acosta,camila.acosta.0443@example.com,CABA,2022-09-15,ocasional
+444,Valentina Rodriguez,valentina.rodriguez.0444@example.com,cordoba,2026-02-10,inactivo
+445,Mariana Ramirez,mariana.ramirez.0445@example.com,Buenos Aires,2024-09-20,inactivo
+446,Valentina Ramirez,valentina.ramirez.0446@example.com,CABA,2025-01-18,inactivo
+447,Laura Sanchez,laura.sanchez.0447@example.com,Mendoza,2025-02-09,frecuente
+448,pablo diaz,pablo.diaz.0448@example.com,Mendoza,2025-01-14,ocasional
+449,Sofia Garcia,sofia.garcia.0449@example.com,Santa Fe,2022-02-08,ocasional
+450,Julieta Fernandez,julieta.fernandez.0450@example.com,Santa Fe,2025-09-10,alto_valor
+451,Gonzalo Lopez,gonzalo.lopez.0451@example.com,Santa Fe,2026-04-18,ocasional
+452,Manuel Garcia,manuel.garcia.0452@example.com,Córdoba,2025-09-11,inactivo
+453,Federico Benitez,federico.benitez.0453@example.com,Neuquen,2023-02-18,ocasional
+454,Camila Martinez,camila.martinez.0454@example.com,Cordoba,2024-09-30,ocasional
+455,LAURA ACOSTA,laura.acosta.0455@example.com,CABA,2022-05-26,frecuente
+456,Gonzalo Pereyra,gonzalo.pereyra.0456@example.com,CABA,2022-06-13,inactivo
+457,Mariana Lopez,mariana.lopez.0457@example.com,Santa Fe,2024-05-01,frecuente
+458,Camila Sanchez,camila.sanchez.0458@example.com,Cordoba,2026-02-12,ocasional
+459,Gonzalo Lopez,gonzalo.lopez.0459@example.com,Buenos Aires,2024-12-24,ocasional
+460,Julieta Martinez,julieta.martinez.0460@example.com,Córdoba,2025-02-17,ocasional
+461,Mariana Pereyra,mariana.pereyra.0461@example.com,CABA,2022-08-02,ocasional
+462,Martin Lopez,martin.lopez.0462@example.com,Ciudad Autonoma de Buenos Aires,2023-12-23,ocasional
+463,Manuel Sanchez,manuel.sanchez.0463@example.com,CABA,2024-05-31,ocasional
+464,Julieta Martinez,julieta.martinez.0464@example.com,Cordoba,2025-01-31,ocasional
+465,Pablo Gomez,pablo.gomez.0465@example.com,Tucuman,2022-01-01,inactivo
+466,Agustina Lopez,agustina.lopez.0466@example.com,Buenos Aires,2022-01-14,ocasional
+467,Manuel Acosta,manuel.acosta.0467@example.com,Mendoza,2025-11-13,ocasional
+468,Sofia Lopez,sofia.lopez.0468@example.com,Cordoba,2022-07-13,frecuente
+469,Federico Diaz,federico.diaz.0469@example.com,CABA,2023-04-23,frecuente
+470,Martin Martinez,martin.martinez.0470@example.com,Entre Rios,2026-02-12,ocasional
+471,Santiago Benitez,santiago.benitez.0471@example.com,CABA,2025-12-10,ocasional
+472,Lucia Acosta,lucia.acosta.0472@example.com,Santa Fe,2025-03-26,inactivo
+473,Manuel Fernandez,manuel.fernandez.0473@example.com,Neuquen,2024-06-08,ocasional
+474,Julieta Ramirez,julieta.ramirez.0474@example.com,Cordoba,2022-01-24,alto_valor
+475,Camila Diaz,camila.diaz.0475@example.com,Capital Federal,2023-11-01,ocasional
+476,Camila Pereyra,camila.pereyra.0476@example.com,Santa Fe,2024-03-15,ocasional
+477,Sofia Alvarez,sofia.alvarez.0477@example.com,Bs As,2022-10-31,inactivo
+478,Camila Lopez,camila.lopez.0478@example.com,Ciudad Autonoma de Buenos Aires,2026-05-04,ocasional
+479,Santiago Lopez,santiago.lopez.0479@example.com,Buenos Aires,2025-03-16,ocasional
+480,Sofia Castro,sofia.castro.0480@example.com,Bs As,2023-10-25,ocasional
+481,Diego Pereyra,diego.pereyra.0481@example.com,CABA,2023-01-26,frecuente
+482,Agustina Rodriguez,agustina.rodriguez.0482@example.com,CABA,2025-06-16,frecuente
+483,Federico Gomez,federico.gomez.0483@example.com,Buenos Aires,2023-02-13,inactivo
+484,Carla Alvarez,carla.alvarez.0484@example.com,Santa Fe,2023-05-13,ocasional
+485,lucia acosta,lucia.acosta.0485@example.com,CABA,2023-09-17,inactivo
+486,Gonzalo Ramirez,gonzalo.ramirez.0486@example.com,caba,2025-01-28,frecuente
+487,Federico Ramirez,federico.ramirez.0487@example.com,Santa Fe,2022-02-07,ocasional
+488,Sofia Acosta,sofia.acosta.0488@example.com,Buenos Aires,2026-06-05,ocasional
+489,Pablo Pereyra,pablo.pereyra.0489@example.com,Tucuman,2022-05-17,ocasional
+490,Mariana Sanchez,mariana.sanchez.0490@example.com,BUENOS AIRES,2024-03-02,ocasional
+491,Diego Silva,diego.silva.0491@example.com,CABA,2024-12-24,ocasional
+492,Pablo Lopez,pablo.lopez.0492@example.com,Entre Rios,2022-02-14,ocasional
+493,Lucia Fernandez,lucia.fernandez.0493@example.com,CABA,2022-02-07,ocasional
+494,Lucia Castro,lucia.castro.0494@example.com,Salta,2024-10-23,frecuente
+495,Laura Silva,laura.silva.0495@example.com,CABA,2022-03-02,frecuente
+496,Julieta Benitez,julieta.benitez.0496@example.com,CABA,2022-10-09,ocasional
+497,Julieta Garcia,julieta.garcia.0497@example.com,Bs As,2025-05-24,inactivo
+498,Gonzalo Pereyra,gonzalo.pereyra.0498@example.com,Buenos Aires,2026-06-27,frecuente
+499,Sofia Silva,sofia.silva.0499@example.com,Buenos Aires,2026-04-27,ocasional
+500,Florencia Fernandez,florencia.fernandez.0500@example.com,Buenos Aires,2026-01-13,ocasional
+501,Federico Ramirez,federico.ramirez.0501@example.com,Bs As,2024-04-22,inactivo
+502,Laura Benitez,laura.benitez.0502@example.com,Mendoza,2022-08-07,ocasional
+503,Laura Martinez,laura.martinez.0503@example.com,Cordoba,2023-04-18,ocasional
+504,Santiago Benitez,santiago.benitez.0504@example.com,CABA,2025-12-29,frecuente
+505,Martin Gomez,martin.gomez.0505@example.com,Capital Federal,2022-03-08,frecuente
+506,Laura Garcia,laura.garcia.0506@example.com,Buenos Aires,2023-02-20,frecuente
+507,Pablo Sanchez,pablo.sanchez.0507@example.com,Cordoba,2024-07-26,ocasional
+508,Camila Martinez,camila.martinez.0508@example.com,Santa Fe,2024-02-19,ocasional
+509,Valentina Lopez,valentina.lopez.0509@example.com,Cordoba,2022-03-20,ocasional
+510,Camila Silva,camila.silva.0510@example.com,Salta,2024-11-28,frecuente
+511,Camila Lopez,camila.lopez.0511@example.com,CABA,2022-04-11,inactivo
+512,Lucia Rodriguez,lucia.rodriguez.0512@example.com,Mendoza,2024-08-02,ocasional
+513,Camila Ramirez,camila.ramirez.0513@example.com,Ciudad Autonoma de Buenos Aires,2022-07-05,inactivo
+514,Valentina Benitez,valentina.benitez.0514@example.com,CABA,2023-01-02,inactivo
+515,Gonzalo Silva,gonzalo.silva.0515@example.com,Capital Federal,2026-01-11,ocasional
+516,Pablo Pereyra,pablo.pereyra.0516@example.com,CABA,2024-02-26,ocasional
+517,Florencia Garcia,florencia.garcia.0517@example.com,Cordoba,2023-11-18,ocasional
+518,Federico Benitez,federico.benitez.0518@example.com,Neuquen,2023-01-02,ocasional
+519,Lucia Diaz,lucia.diaz.0519@example.com,Santa Fe,2024-07-02,frecuente
+520,Federico Castro,federico.castro.0520@example.com,Buenos Aires,2022-01-26,frecuente
+521,Valentina Rodriguez,valentina.rodriguez.0521@example.com,Buenos Aires,2023-05-03,ocasional
+522,Pablo Garcia,pablo.garcia.0522@example.com,CABA,2022-01-14,frecuente
+523,Valentina Sanchez,valentina.sanchez.0523@example.com,Mendoza,2022-04-11,ocasional
+524,Mariana Acosta,mariana.acosta.0524@example.com,BUENOS AIRES,2025-05-20,ocasional
+525,Camila Alvarez,camila.alvarez.0525@example.com,caba,2025-06-05,frecuente
+526,Valentina Benitez,valentina.benitez.0526@example.com,Tucuman,2026-03-15,alto_valor
+527,Carla Rodriguez,carla.rodriguez.0527@example.com,Buenos Aires,2024-02-16,inactivo
+528,Valentina Alvarez,valentina.alvarez.0528@example.com,BUENOS AIRES,2023-07-17,ocasional
+529,Gonzalo Ramirez,gonzalo.ramirez.0529@example.com,BUENOS AIRES,2026-02-03,ocasional
+530,Carla Gomez,carla.gomez.0530@example.com,Santa Fe,2025-05-23,ocasional
+531,Lucia Garcia,lucia.garcia.0531@example.com,Córdoba,2025-03-23,ocasional
+532,Federico Martinez,federico.martinez.0532@example.com,Cordoba,2025-07-18,ocasional
+533,Julieta Ramirez,julieta.ramirez.0533@example.com,Buenos Aires,2022-02-19,inactivo
+534,Gonzalo Rodriguez,gonzalo.rodriguez.0534@example.com,Cordoba,2022-04-04,alto_valor
+535,Gonzalo Acosta,gonzalo.acosta.0535@example.com,Cordoba,2023-06-06,frecuente
+536,Sofia Lopez,sofia.lopez.0536@example.com,caba,2023-12-01,frecuente
+537,Agustina Sanchez,agustina.sanchez.0537@example.com,Bs As,2025-10-09,inactivo
+538,Camila Pereyra,camila.pereyra.0538@example.com,Bs As,2025-01-04,ocasional
+539,Natalia Silva,natalia.silva.0539@example.com,Santa Fe,2024-12-03,ocasional
+540,Manuel Lopez,manuel.lopez.0540@example.com,caba,2026-06-26,ocasional
+541,Carla Benitez,carla.benitez.0541@example.com,Bs As,2025-07-07,frecuente
+542,Martin Benitez,martin.benitez.0542@example.com,Cordoba,2026-03-20,frecuente
+543,Camila Diaz,camila.diaz.0543@example.com,CABA,2023-05-02,frecuente
+544,Lucia Castro,lucia.castro.0544@example.com,caba,2026-05-27,ocasional
+545,Carla Gomez,carla.gomez.0545@example.com,CABA,2024-10-21,ocasional
+546,Santiago Ramirez,santiago.ramirez.0546@example.com,Neuquen,2023-09-28,frecuente
+547,Diego Sanchez,diego.sanchez.0547@example.com,Salta,2024-11-23,ocasional
+548,CAMILA GOMEZ,camila.gomez.0548@example.com,CABA,2022-08-26,ocasional
+549,Camila Pereyra,camila.pereyra.0549@example.com,Neuquen,2022-06-28,ocasional
+550,Diego Lopez,diego.lopez.0550@example.com,Mendoza,2026-03-07,ocasional
+551,Lucia Pereyra,lucia.pereyra.0551@example.com,Rio Negro,2023-10-20,ocasional
+552,Valentina Fernandez,valentina.fernandez.0552@example.com,Mendoza,2025-10-06,ocasional
+553,Laura Alvarez,laura.alvarez.0553@example.com,Buenos Aires,2024-11-18,ocasional
+554,Valentina Fernandez,valentina.fernandez.0554@example.com,Buenos Aires,2026-07-05,alto_valor
+555,Carla Diaz,carla.diaz.0555@example.com,cordoba,2022-04-14,ocasional
+556,Camila Alvarez,camila.alvarez.0556@example.com,Ciudad Autonoma de Buenos Aires,2023-01-02,ocasional
+557,Pablo Martinez,pablo.martinez.0557@example.com,Capital Federal,2025-12-31,frecuente
+558,Carla Silva,carla.silva.0558@example.com,Santa Fe,2024-08-11,ocasional
+559,Pablo Alvarez,pablo.alvarez.0559@example.com,CABA,2025-12-25,ocasional
+560,Julieta Benitez,julieta.benitez.0560@example.com,Neuquen,2025-06-17,ocasional
+561,Florencia Ramirez,florencia.ramirez.0561@example.com,Entre Rios,2023-11-08,inactivo
+562,Pablo Gomez,pablo.gomez.0562@example.com,Buenos Aires,2023-12-21,ocasional
+563,Lucia Rodriguez,lucia.rodriguez.0563@example.com,CABA,2024-11-06,ocasional
+564,Diego Fernandez,diego.fernandez.0564@example.com,cordoba,2024-12-27,ocasional
+565,Julieta Martinez,julieta.martinez.0565@example.com,Bs As,2024-02-26,alto_valor
+566,Natalia Rodriguez,natalia.rodriguez.0566@example.com,Salta,2025-03-07,inactivo
+567,Julieta Benitez,julieta.benitez.0567@example.com,Santa Fe,2022-06-09,alto_valor
+568,Santiago Alvarez,santiago.alvarez.0568@example.com,Cordoba,2025-02-10,ocasional
+569,Lucia Garcia,lucia.garcia.0569@example.com,BUENOS AIRES,2026-04-29,ocasional
+570,camila alvarez,camila.alvarez.0570@example.com,BUENOS AIRES,2026-03-27,ocasional
+571,Federico Pereyra,federico.pereyra.0571@example.com,Buenos Aires,2024-03-09,ocasional
+572,Gonzalo Pereyra,gonzalo.pereyra.0572@example.com,Neuquen,2023-09-06,frecuente
+573,Lucia Silva,lucia.silva.0573@example.com,Tucuman,2024-06-09,frecuente
+574,Carla Martinez,carla.martinez.0574@example.com,Buenos Aires,2024-04-07,ocasional
+575,CAMILA FERNANDEZ,camila.fernandez.0575@example.com,Rio Negro,2022-04-19,frecuente
+576,Valentina Sanchez,valentina.sanchez.0576@example.com,Salta,2022-08-13,ocasional
+577,Julieta Garcia,julieta.garcia.0577@example.com,Santa Fe,2024-03-18,ocasional
+578,Martin Garcia,martin.garcia.0578@example.com,Capital Federal,2024-08-30,frecuente
+579,MARIANA SANCHEZ,mariana.sanchez.0579@example.com,Capital Federal,2022-10-03,ocasional
+580,Agustina Benitez,agustina.benitez.0580@example.com,Santa Fe,2024-09-23,ocasional
+581,Federico Alvarez,federico.alvarez.0581@example.com,Buenos Aires,2024-07-22,ocasional
+582,Natalia Martinez,natalia.martinez.0582@example.com,Buenos Aires,2025-02-04,ocasional
+583,Julieta Benitez,julieta.benitez.0583@example.com,Ciudad Autonoma de Buenos Aires,2026-02-05,ocasional
+584,Natalia Silva,natalia.silva.0584@example.com,Cordoba,2022-03-19,inactivo
+585,Diego Martinez,diego.martinez.0585@example.com,CABA,2022-10-18,ocasional
+586,Laura Gomez,laura.gomez.0586@example.com,CABA,2025-06-03,frecuente
+587,Carla Pereyra,carla.pereyra.0587@example.com,Cordoba,2023-10-02,frecuente
+588,Valentina Rodriguez,valentina.rodriguez.0588@example.com,Buenos Aires,2024-08-18,ocasional
+589,Mariana Rodriguez,mariana.rodriguez.0589@example.com,BUENOS AIRES,2025-05-08,inactivo
+590,Laura Acosta,laura.acosta.0590@example.com,Cordoba,2025-03-19,alto_valor
+591,Agustina Diaz,agustina.diaz.0591@example.com,CABA,2026-05-25,frecuente
+592,Laura Diaz,laura.diaz.0592@example.com,Neuquen,2022-01-30,ocasional
+593,Federico Pereyra,federico.pereyra.0593@example.com,CABA,2023-06-20,inactivo
+594,Florencia Rodriguez,florencia.rodriguez.0594@example.com,CABA,2022-10-25,ocasional
+595,Santiago Rodriguez,santiago.rodriguez.0595@example.com,Salta,2026-04-27,ocasional
+596,Florencia Castro,florencia.castro.0596@example.com,Cordoba,2022-04-22,ocasional
+597,Diego Acosta,diego.acosta.0597@example.com,Buenos Aires,2023-09-10,ocasional
+598,Valentina Castro,valentina.castro.0598@example.com,CABA,2024-08-29,ocasional
+599,Natalia Acosta,natalia.acosta.0599@example.com,Buenos Aires,2024-02-22,alto_valor
+600,Camila Alvarez,camila.alvarez.0600@example.com,Entre Rios,2025-07-29,ocasional
+601,Laura Fernandez,laura.fernandez.0601@example.com,Buenos Aires,2023-06-07,ocasional
+602,Julieta Ramirez,julieta.ramirez.0602@example.com,Santa Fe,2026-04-27,inactivo
+603,FLORENCIA FERNANDEZ,florencia.fernandez.0603@example.com,Cordoba,2022-05-20,alto_valor
+604,Diego Lopez,diego.lopez.0604@example.com,Buenos Aires,2023-03-26,ocasional
+605,Camila Acosta,camila.acosta.0605@example.com,Córdoba,2025-09-06,ocasional
+606,Diego Ramirez,diego.ramirez.0606@example.com,Tucuman,2022-06-26,ocasional
+607,Florencia Silva,florencia.silva.0607@example.com,Bs As,2024-08-14,ocasional
+608,Pablo Silva,pablo.silva.0608@example.com,Salta,2026-04-25,ocasional
+609,Manuel Diaz,manuel.diaz.0609@example.com,Buenos Aires,2024-02-23,ocasional
+610,Laura Sanchez,laura.sanchez.0610@example.com,Buenos Aires,2024-10-04,inactivo
+611,Martin Benitez,martin.benitez.0611@example.com,Córdoba,2026-04-24,ocasional
+612,Diego Silva,diego.silva.0612@example.com,CABA,2022-05-30,frecuente
+613,pablo acosta,pablo.acosta.0613@example.com,Rio Negro,2022-11-01,ocasional
+614,Camila Pereyra,camila.pereyra.0614@example.com,caba,2024-03-12,ocasional
+615,Santiago Gomez,santiago.gomez.0615@example.com,CABA,2026-05-19,ocasional
+616,Julieta Acosta,julieta.acosta.0616@example.com,CABA,2026-05-17,ocasional
+617,Mariana Fernandez,mariana.fernandez.0617@example.com,Santa Fe,2024-03-31,frecuente
+618,Carla Fernandez,carla.fernandez.0618@example.com,CABA,2022-06-14,ocasional
+619,Lucia Pereyra,lucia.pereyra.0619@example.com,Buenos Aires,2024-02-26,ocasional
+620,Martin Silva,martin.silva.0620@example.com,Buenos Aires,2024-09-23,inactivo
+621,Gonzalo Benitez,gonzalo.benitez.0621@example.com,BUENOS AIRES,2023-05-04,frecuente
+622,Valentina Pereyra,valentina.pereyra.0622@example.com,CABA,2026-07-21,ocasional
+623,Camila Fernandez,camila.fernandez.0623@example.com,Buenos Aires,2022-03-29,frecuente
+624,Sofia Gomez,sofia.gomez.0624@example.com,Tucuman,2025-01-03,ocasional
+625,Carla Acosta,carla.acosta.0625@example.com,Santa Fe,2024-09-28,ocasional
+626,CAMILA CASTRO,camila.castro.0626@example.com,Santa Fe,2022-09-25,ocasional
+627,Camila Silva,camila.silva.0627@example.com,CABA,2024-07-23,ocasional
+628,Carla Sanchez,carla.sanchez.0628@example.com,Mendoza,2022-08-22,frecuente
+629,Julieta Alvarez,julieta.alvarez.0629@example.com,Mendoza,2024-05-22,ocasional
+630,Martin Fernandez,martin.fernandez.0630@example.com,Buenos Aires,2025-01-22,ocasional
+631,Gonzalo Rodriguez,gonzalo.rodriguez.0631@example.com,Buenos Aires,2022-09-05,ocasional
+632,Florencia Ramirez,florencia.ramirez.0632@example.com,Capital Federal,2025-04-06,inactivo
+633,MARTIN RODRIGUEZ,martin.rodriguez.0633@example.com,Buenos Aires,2022-06-15,ocasional
+634,Florencia Silva,florencia.silva.0634@example.com,Buenos Aires,2023-08-05,ocasional
+635,Santiago Ramirez,santiago.ramirez.0635@example.com,Bs As,2024-12-07,ocasional
+636,Florencia Martinez,florencia.martinez.0636@example.com,Santa Fe,2025-05-06,ocasional
+637,carla pereyra,carla.pereyra.0637@example.com,Mendoza,2023-09-09,frecuente
+638,Julieta Castro,julieta.castro.0638@example.com,Buenos Aires,2022-07-15,ocasional
+639,Valentina Lopez,valentina.lopez.0639@example.com,Buenos Aires,2025-09-12,ocasional
+640,Diego Rodriguez,diego.rodriguez.0640@example.com,Buenos Aires,2024-08-29,ocasional
+641,Camila Acosta,camila.acosta.0641@example.com,cordoba,2023-05-30,ocasional
+642,Pablo Acosta,pablo.acosta.0642@example.com,BUENOS AIRES,2022-12-27,frecuente
+643,Sofia Alvarez,sofia.alvarez.0643@example.com,Bs As,2025-04-28,alto_valor
+644,Manuel Castro,manuel.castro.0644@example.com,Mendoza,2023-10-30,ocasional
+645,Natalia Sanchez,natalia.sanchez.0645@example.com,Buenos Aires,2022-05-31,ocasional
+646,Natalia Benitez,natalia.benitez.0646@example.com,Buenos Aires,2022-12-31,ocasional
+647,Gonzalo Pereyra,gonzalo.pereyra.0647@example.com,caba,2022-09-18,frecuente
+648,Laura Benitez,laura.benitez.0648@example.com,Buenos Aires,2024-05-06,frecuente
+649,Lucia Martinez,lucia.martinez.0649@example.com,Buenos Aires,2025-06-06,ocasional
+650,Valentina Sanchez,valentina.sanchez.0650@example.com,Buenos Aires,2024-12-04,ocasional
+651,Santiago Sanchez,santiago.sanchez.0651@example.com,Ciudad Autonoma de Buenos Aires,2026-02-16,inactivo
+652,Natalia Martinez,natalia.martinez.0652@example.com,Buenos Aires,2022-11-02,alto_valor
+653,Natalia Acosta,natalia.acosta.0653@example.com,Buenos Aires,2026-04-24,frecuente
+654,Martin Gomez,martin.gomez.0654@example.com,Mendoza,2025-11-27,ocasional
+655,Julieta Alvarez,julieta.alvarez.0655@example.com,Córdoba,2024-04-12,ocasional
+656,Lucia Castro,lucia.castro.0656@example.com,cordoba,2025-10-02,ocasional
+657,Agustina Gomez,agustina.gomez.0657@example.com,Ciudad Autonoma de Buenos Aires,2023-01-14,frecuente
+658,Pablo Ramirez,pablo.ramirez.0658@example.com,Cordoba,2022-05-25,frecuente
+659,Sofia Acosta,sofia.acosta.0659@example.com,Buenos Aires,2025-11-30,ocasional
+660,Gonzalo Rodriguez,gonzalo.rodriguez.0660@example.com,Santa Fe,2025-06-24,ocasional
+661,Camila Lopez,camila.lopez.0661@example.com,Tucuman,2025-10-13,ocasional
+662,Martin Fernandez,martin.fernandez.0662@example.com,caba,2022-12-25,inactivo
+663,Valentina Ramirez,valentina.ramirez.0663@example.com,Mendoza,2022-10-11,alto_valor
+664,Diego Pereyra,diego.pereyra.0664@example.com,CABA,2025-04-03,frecuente
+665,Julieta Fernandez,julieta.fernandez.0665@example.com,Ciudad Autonoma de Buenos Aires,2023-07-22,ocasional
+666,Pablo Gomez,pablo.gomez.0666@example.com,CABA,2024-08-20,inactivo
+667,Valentina Silva,valentina.silva.0667@example.com,Buenos Aires,2026-06-27,frecuente
+668,Carla Castro,carla.castro.0668@example.com,Rio Negro,2024-07-26,ocasional
+669,Florencia Diaz,florencia.diaz.0669@example.com,Tucuman,2022-06-07,ocasional
+670,Federico Gomez,federico.gomez.0670@example.com,BUENOS AIRES,2022-02-16,frecuente
+671,Valentina Silva,valentina.silva.0671@example.com,Bs As,2026-02-19,ocasional
+672,Carla Acosta,carla.acosta.0672@example.com,Neuquen,2023-04-21,ocasional
+673,Manuel Garcia,manuel.garcia.0673@example.com,Cordoba,2026-05-31,inactivo
+674,Sofia Sanchez,sofia.sanchez.0674@example.com,Cordoba,2025-03-07,frecuente
+675,Florencia Rodriguez,florencia.rodriguez.0675@example.com,Buenos Aires,2023-08-14,frecuente
+676,Mariana Diaz,mariana.diaz.0676@example.com,Capital Federal,2025-12-28,frecuente
+677,Florencia Sanchez,florencia.sanchez.0677@example.com,Santa Fe,2025-09-26,frecuente
+678,Diego Acosta,diego.acosta.0678@example.com,Salta,2025-03-22,ocasional
+679,Florencia Castro,florencia.castro.0679@example.com,cordoba,2023-12-06,inactivo
+680,Florencia Lopez,florencia.lopez.0680@example.com,CABA,2024-04-08,ocasional
+681,Pablo Silva,pablo.silva.0681@example.com,caba,2025-08-18,inactivo
+682,Lucia Rodriguez,lucia.rodriguez.0682@example.com,Salta,2025-03-20,inactivo
+683,Pablo Fernandez,pablo.fernandez.0683@example.com,Santa Fe,2026-02-07,ocasional
+684,Valentina Alvarez,valentina.alvarez.0684@example.com,CABA,2023-03-28,ocasional
+685,Camila Martinez,camila.martinez.0685@example.com,Cordoba,2023-03-31,ocasional
+686,Gonzalo Acosta,gonzalo.acosta.0686@example.com,Buenos Aires,2025-10-18,ocasional
+687,Sofia Garcia,sofia.garcia.0687@example.com,BUENOS AIRES,2024-11-13,ocasional
+688,mariana garcia,mariana.garcia.0688@example.com,Buenos Aires,2024-01-28,frecuente
+689,Mariana Fernandez,mariana.fernandez.0689@example.com,CABA,2025-02-22,ocasional
+690,Pablo Ramirez,pablo.ramirez.0690@example.com,Salta,2026-07-04,ocasional
+691,Natalia Ramirez,natalia.ramirez.0691@example.com,Rio Negro,2022-10-13,frecuente
+692,Federico Castro,federico.castro.0692@example.com,CABA,2024-12-11,ocasional
+693,Martin Alvarez,martin.alvarez.0693@example.com,Buenos Aires,2023-07-14,frecuente
+694,Federico Castro,federico.castro.0694@example.com,Buenos Aires,2025-02-08,inactivo
+695,Lucia Sanchez,lucia.sanchez.0695@example.com,Cordoba,2026-02-24,ocasional
+696,Agustina Benitez,agustina.benitez.0696@example.com,Buenos Aires,2025-07-27,frecuente
+697,Lucia Garcia,lucia.garcia.0697@example.com,Buenos Aires,2025-08-13,ocasional
+698,Laura Gomez,laura.gomez.0698@example.com,Salta,2022-05-17,ocasional
+699,Santiago Martinez,santiago.martinez.0699@example.com,Ciudad Autonoma de Buenos Aires,2025-11-22,ocasional
+700,Agustina Sanchez,agustina.sanchez.0700@example.com,Buenos Aires,2022-10-27,ocasional
+701,Federico Fernandez,federico.fernandez.0701@example.com,Bs As,2025-07-27,inactivo
+702,Lucia Diaz,lucia.diaz.0702@example.com,CABA,2024-11-18,frecuente
+703,Diego Martinez,diego.martinez.0703@example.com,Santa Fe,2025-01-18,inactivo
+704,Lucia Diaz,lucia.diaz.0704@example.com,Santa Fe,2025-11-10,frecuente
+705,Mariana Sanchez,mariana.sanchez.0705@example.com,Bs As,2024-02-03,ocasional
+706,Florencia Alvarez,florencia.alvarez.0706@example.com,Buenos Aires,2023-01-21,ocasional
+707,Sofia Sanchez,sofia.sanchez.0707@example.com,CABA,2026-03-29,ocasional
+708,Carla Alvarez,carla.alvarez.0708@example.com,Mendoza,2022-02-05,ocasional
+709,Mariana Benitez,mariana.benitez.0709@example.com,Mendoza,2025-05-08,ocasional
+710,Florencia Ramirez,florencia.ramirez.0710@example.com,CABA,2022-08-31,ocasional
+711,Federico Ramirez,federico.ramirez.0711@example.com,Buenos Aires,2022-06-10,frecuente
+712,Diego Alvarez,diego.alvarez.0712@example.com,Buenos Aires,2024-06-02,ocasional
+713,Sofia Martinez,sofia.martinez.0713@example.com,Bs As,2022-03-30,frecuente
+714,Diego Rodriguez,diego.rodriguez.0714@example.com,Buenos Aires,2025-04-18,ocasional
+715,Mariana Acosta,mariana.acosta.0715@example.com,Buenos Aires,2023-07-23,ocasional
+716,Florencia Sanchez,florencia.sanchez.0716@example.com,CABA,2023-05-11,frecuente
+717,Agustina Lopez,agustina.lopez.0717@example.com,Bs As,2022-12-18,ocasional
+718,Diego Silva,diego.silva.0718@example.com,Buenos Aires,2025-12-20,ocasional
+719,Florencia Gomez,florencia.gomez.0719@example.com,Santa Fe,2022-08-08,ocasional
+720,Martin Garcia,martin.garcia.0720@example.com,Buenos Aires,2026-04-09,ocasional
+721,Diego Lopez,diego.lopez.0721@example.com,Buenos Aires,2025-12-14,frecuente
+722,Carla Fernandez,carla.fernandez.0722@example.com,CABA,2024-07-24,ocasional
+723,Pablo Castro,pablo.castro.0723@example.com,cordoba,2023-01-22,inactivo
+724,Santiago Pereyra,santiago.pereyra.0724@example.com,Ciudad Autonoma de Buenos Aires,2025-10-08,ocasional
+725,Carla Alvarez,carla.alvarez.0725@example.com,Buenos Aires,2025-04-24,ocasional
+726,Florencia Alvarez,florencia.alvarez.0726@example.com,Capital Federal,2025-05-03,ocasional
+727,Julieta Sanchez,julieta.sanchez.0727@example.com,CABA,2026-04-16,frecuente
+728,Laura Rodriguez,laura.rodriguez.0728@example.com,Mendoza,2025-08-11,inactivo
+729,Martin Gomez,martin.gomez.0729@example.com,Ciudad Autonoma de Buenos Aires,2022-08-10,frecuente
+730,Julieta Pereyra,julieta.pereyra.0730@example.com,Tucuman,2022-03-02,inactivo
+731,Carla Gomez,carla.gomez.0731@example.com,Santa Fe,2023-01-02,ocasional
+732,Federico Diaz,federico.diaz.0732@example.com,Cordoba,2025-09-15,ocasional
+733,Pablo Castro,pablo.castro.0733@example.com,Buenos Aires,2024-10-30,frecuente
+734,Valentina Lopez,valentina.lopez.0734@example.com,Buenos Aires,2024-05-31,frecuente
+735,Pablo Fernandez,pablo.fernandez.0735@example.com,Neuquen,2024-06-25,inactivo
+736,Valentina Pereyra,valentina.pereyra.0736@example.com,Neuquen,2023-09-13,ocasional
+737,Natalia Benitez,natalia.benitez.0737@example.com,CABA,2026-04-14,ocasional
+738,Valentina Pereyra,valentina.pereyra.0738@example.com,CABA,2025-02-25,ocasional
+739,Martin Diaz,martin.diaz.0739@example.com,CABA,2025-06-17,frecuente
+740,Lucia Fernandez,lucia.fernandez.0740@example.com,Buenos Aires,2022-09-20,ocasional
+741,Agustina Rodriguez,agustina.rodriguez.0741@example.com,Rio Negro,2023-11-30,ocasional
+742,Mariana Garcia,mariana.garcia.0742@example.com,CABA,2023-05-23,ocasional
+743,Carla Silva,carla.silva.0743@example.com,Santa Fe,2023-09-17,frecuente
+744,Valentina Fernandez,valentina.fernandez.0744@example.com,Buenos Aires,2024-05-15,ocasional
+745,LAURA ACOSTA,laura.acosta.0745@example.com,Santa Fe,2025-04-19,inactivo
+746,Manuel Garcia,manuel.garcia.0746@example.com,Cordoba,2026-07-14,ocasional
+747,Gonzalo Fernandez,gonzalo.fernandez.0747@example.com,CABA,2025-09-28,inactivo
+748,Mariana Garcia,mariana.garcia.0748@example.com,Buenos Aires,2026-06-01,alto_valor
+749,Gonzalo Diaz,gonzalo.diaz.0749@example.com,BUENOS AIRES,2024-04-03,inactivo
+750,Carla Ramirez,carla.ramirez.0750@example.com,Neuquen,2022-07-14,frecuente
+751,Sofia Gomez,sofia.gomez.0751@example.com,CABA,2025-08-27,inactivo
+752,Lucia Garcia,lucia.garcia.0752@example.com,Santa Fe,2023-10-04,ocasional
+753,sofia gomez,sofia.gomez.0753@example.com,Santa Fe,2025-01-26,ocasional
+754,Sofia Sanchez,sofia.sanchez.0754@example.com,Buenos Aires,2025-09-15,frecuente
+755,Pablo Diaz,pablo.diaz.0755@example.com,Entre Rios,2024-12-27,ocasional
+756,Natalia Silva,natalia.silva.0756@example.com,Cordoba,2024-12-05,ocasional
+757,Julieta Benitez,julieta.benitez.0757@example.com,Santa Fe,2026-04-17,alto_valor
+758,Manuel Sanchez,manuel.sanchez.0758@example.com,Mendoza,2022-05-12,inactivo
+759,Laura Sanchez,laura.sanchez.0759@example.com,BUENOS AIRES,2025-05-16,ocasional
+760,Federico Castro,federico.castro.0760@example.com,Buenos Aires,2023-09-28,ocasional
+761,Natalia Garcia,natalia.garcia.0761@example.com,Cordoba,2023-07-13,ocasional
+762,Laura Pereyra,laura.pereyra.0762@example.com,Cordoba,2022-03-28,frecuente
+763,Agustina Acosta,agustina.acosta.0763@example.com,Neuquen,2022-06-21,ocasional
+764,Carla Silva,carla.silva.0764@example.com,Tucuman,2024-01-15,ocasional
+765,Martin Sanchez,martin.sanchez.0765@example.com,Santa Fe,2022-10-15,ocasional
+766,Sofia Silva,sofia.silva.0766@example.com,Buenos Aires,2025-04-03,ocasional
+767,Laura Gomez,laura.gomez.0767@example.com,Rio Negro,2023-05-03,frecuente
+768,Manuel Fernandez,manuel.fernandez.0768@example.com,Mendoza,2026-02-18,ocasional
+769,Julieta Silva,julieta.silva.0769@example.com,Capital Federal,2023-03-15,ocasional
+770,Laura Sanchez,laura.sanchez.0770@example.com,Cordoba,2024-02-07,ocasional
+771,Valentina Garcia,valentina.garcia.0771@example.com,caba,2026-05-26,frecuente
+772,Mariana Sanchez,mariana.sanchez.0772@example.com,CABA,2025-05-25,inactivo
+773,Camila Ramirez,camila.ramirez.0773@example.com,Entre Rios,2025-10-07,ocasional
+774,Lucia Pereyra,lucia.pereyra.0774@example.com,Tucuman,2024-01-14,inactivo
+775,Valentina Sanchez,valentina.sanchez.0775@example.com,Buenos Aires,2022-01-17,ocasional
+776,Laura Diaz,laura.diaz.0776@example.com,Buenos Aires,2023-04-28,ocasional
+777,Florencia Silva,florencia.silva.0777@example.com,Ciudad Autonoma de Buenos Aires,2026-06-05,ocasional
+778,Santiago Gomez,santiago.gomez.0778@example.com,Santa Fe,2023-11-13,ocasional
+779,Diego Sanchez,diego.sanchez.0779@example.com,Buenos Aires,2023-12-22,frecuente
+780,Valentina Ramirez,valentina.ramirez.0780@example.com,CABA,2026-04-10,frecuente
+781,Pablo Rodriguez,pablo.rodriguez.0781@example.com,Cordoba,2025-07-10,frecuente
+782,Diego Benitez,diego.benitez.0782@example.com,Buenos Aires,2026-04-22,ocasional
+783,Natalia Rodriguez,natalia.rodriguez.0783@example.com,Entre Rios,2024-07-13,frecuente
+784,Laura Benitez,laura.benitez.0784@example.com,Santa Fe,2023-11-02,frecuente
+785,Natalia Fernandez,natalia.fernandez.0785@example.com,Buenos Aires,2025-03-14,inactivo
+786,Valentina Pereyra,valentina.pereyra.0786@example.com,Cordoba,2024-08-05,inactivo
+787,Florencia Acosta,florencia.acosta.0787@example.com,CABA,2023-06-17,ocasional
+788,Florencia Martinez,florencia.martinez.0788@example.com,Buenos Aires,2024-06-10,inactivo
+789,Santiago Alvarez,santiago.alvarez.0789@example.com,Bs As,2023-08-13,inactivo
+790,Natalia Sanchez,natalia.sanchez.0790@example.com,Bs As,2026-01-28,ocasional
+791,Natalia Rodriguez,natalia.rodriguez.0791@example.com,Bs As,2023-04-28,inactivo
+792,Mariana Martinez,mariana.martinez.0792@example.com,Santa Fe,2024-07-27,ocasional
+793,Manuel Ramirez,manuel.ramirez.0793@example.com,Ciudad Autonoma de Buenos Aires,2025-12-21,frecuente
+794,Carla Alvarez,carla.alvarez.0794@example.com,Cordoba,2024-08-22,frecuente
+795,Camila Acosta,camila.acosta.0795@example.com,Buenos Aires,2023-09-12,inactivo
+796,Federico Silva,federico.silva.0796@example.com,Cordoba,2023-06-18,ocasional
+797,Manuel Silva,manuel.silva.0797@example.com,Ciudad Autonoma de Buenos Aires,2022-10-18,inactivo
+798,Federico Gomez,federico.gomez.0798@example.com,Neuquen,2023-07-30,ocasional
+799,Lucia Silva,lucia.silva.0799@example.com,Neuquen,2025-06-09,frecuente
+800,Sofia Fernandez,sofia.fernandez.0800@example.com,Ciudad Autonoma de Buenos Aires,2026-04-14,ocasional
+801,Pablo Acosta,pablo.acosta.0801@example.com,Buenos Aires,2022-03-15,ocasional
+802,Pablo Garcia,pablo.garcia.0802@example.com,Buenos Aires,2024-10-10,frecuente
+803,Valentina Gomez,valentina.gomez.0803@example.com,Capital Federal,2022-09-11,ocasional
+804,Lucia Benitez,lucia.benitez.0804@example.com,Mendoza,2026-03-16,alto_valor
+805,Gonzalo Martinez,gonzalo.martinez.0805@example.com,Salta,2022-01-09,ocasional
+806,Natalia Silva,natalia.silva.0806@example.com,Buenos Aires,2025-10-18,ocasional
+807,Lucia Pereyra,lucia.pereyra.0807@example.com,Salta,2022-09-07,ocasional
+808,Diego Sanchez,diego.sanchez.0808@example.com,Ciudad Autonoma de Buenos Aires,2025-12-20,ocasional
+809,Laura Martinez,laura.martinez.0809@example.com,Cordoba,2025-09-05,ocasional
+810,Federico Castro,federico.castro.0810@example.com,Neuquen,2026-06-30,alto_valor
+811,Camila Ramirez,camila.ramirez.0811@example.com,Buenos Aires,2024-02-21,frecuente
+812,JULIETA RODRIGUEZ,julieta.rodriguez.0812@example.com,Neuquen,2022-07-02,frecuente
+813,Gonzalo Benitez,gonzalo.benitez.0813@example.com,CABA,2025-08-18,ocasional
+814,Diego Diaz,diego.diaz.0814@example.com,CABA,2026-07-10,ocasional
+815,Federico Fernandez,federico.fernandez.0815@example.com,Santa Fe,2024-01-23,ocasional
+816,Martin Gomez,martin.gomez.0816@example.com,Buenos Aires,2022-07-04,alto_valor
+817,Florencia Garcia,florencia.garcia.0817@example.com,Córdoba,2023-12-01,frecuente
+818,Federico Silva,federico.silva.0818@example.com,CABA,2024-12-10,ocasional
+819,Carla Silva,carla.silva.0819@example.com,Mendoza,2023-09-08,ocasional
+820,Lucia Sanchez,lucia.sanchez.0820@example.com,Buenos Aires,2025-03-10,ocasional
+821,Camila Lopez,camila.lopez.0821@example.com,Buenos Aires,2022-07-13,ocasional
+822,Laura Fernandez,laura.fernandez.0822@example.com,BUENOS AIRES,2022-02-03,ocasional
+823,Florencia Rodriguez,florencia.rodriguez.0823@example.com,Buenos Aires,2022-06-20,ocasional
+824,Manuel Martinez,manuel.martinez.0824@example.com,Santa Fe,2026-04-01,ocasional
+825,Laura Fernandez,laura.fernandez.0825@example.com,Tucuman,2026-07-17,ocasional
+826,laura sanchez,laura.sanchez.0826@example.com,Santa Fe,2024-06-07,ocasional
+827,Diego Acosta,diego.acosta.0827@example.com,Buenos Aires,2025-11-17,frecuente
+828,Santiago Diaz,santiago.diaz.0828@example.com,Cordoba,2024-01-09,frecuente
+829,martin rodriguez,martin.rodriguez.0829@example.com,CABA,2023-01-26,ocasional
+830,Gonzalo Sanchez,gonzalo.sanchez.0830@example.com,Buenos Aires,2022-10-25,inactivo
+831,valentina castro,valentina.castro.0831@example.com,Buenos Aires,2022-10-31,ocasional
+832,Florencia Silva,florencia.silva.0832@example.com,Buenos Aires,2024-09-20,ocasional
+833,julieta castro,julieta.castro.0833@example.com,Buenos Aires,2024-03-13,frecuente
+834,Natalia Garcia,natalia.garcia.0834@example.com,Neuquen,2026-02-18,ocasional
+835,Lucia Acosta,lucia.acosta.0835@example.com,CABA,2025-04-25,ocasional
+836,SANTIAGO CASTRO,santiago.castro.0836@example.com,Santa Fe,2024-12-17,alto_valor
+837,Manuel Lopez,manuel.lopez.0837@example.com,Buenos Aires,2024-05-04,alto_valor
+838,Mariana Gomez,mariana.gomez.0838@example.com,Santa Fe,2022-02-12,ocasional
+839,Santiago Fernandez,santiago.fernandez.0839@example.com,CABA,2025-04-18,ocasional
+840,Pablo Benitez,pablo.benitez.0840@example.com,Rio Negro,2026-01-20,ocasional
+841,Mariana Rodriguez,mariana.rodriguez.0841@example.com,CABA,2022-11-28,frecuente
+842,Carla Pereyra,carla.pereyra.0842@example.com,Capital Federal,2025-05-25,inactivo
+843,Santiago Diaz,santiago.diaz.0843@example.com,Buenos Aires,2022-02-07,frecuente
+844,Florencia Benitez,florencia.benitez.0844@example.com,Mendoza,2024-10-28,inactivo
+845,Natalia Alvarez,natalia.alvarez.0845@example.com,Cordoba,2024-09-23,ocasional
+846,Mariana Rodriguez,mariana.rodriguez.0846@example.com,Buenos Aires,2023-07-02,ocasional
+847,Sofia Martinez,sofia.martinez.0847@example.com,Santa Fe,2025-12-17,ocasional
+848,Pablo Sanchez,pablo.sanchez.0848@example.com,Santa Fe,2022-08-05,ocasional
+849,Diego Sanchez,diego.sanchez.0849@example.com,Cordoba,2022-12-09,ocasional
+850,Mariana Benitez,mariana.benitez.0850@example.com,Santa Fe,2025-12-21,ocasional
+851,Diego Benitez,diego.benitez.0851@example.com,Cordoba,2022-09-09,ocasional
+852,Natalia Rodriguez,natalia.rodriguez.0852@example.com,Mendoza,2023-05-18,ocasional
+853,Lucia Lopez,lucia.lopez.0853@example.com,BUENOS AIRES,2026-03-26,ocasional
+854,Julieta Benitez,julieta.benitez.0854@example.com,Santa Fe,2024-12-20,ocasional
+855,Natalia Garcia,natalia.garcia.0855@example.com,Entre Rios,2024-07-28,alto_valor
+856,Mariana Acosta,mariana.acosta.0856@example.com,CABA,2026-01-09,ocasional
+857,Carla Fernandez,carla.fernandez.0857@example.com,CABA,2022-12-03,frecuente
+858,Camila Pereyra,camila.pereyra.0858@example.com,Entre Rios,2022-11-06,ocasional
+859,Sofia Diaz,sofia.diaz.0859@example.com,CABA,2025-12-06,ocasional
+860,Manuel Silva,manuel.silva.0860@example.com,CABA,2024-12-16,inactivo
+861,Martin Gomez,martin.gomez.0861@example.com,Cordoba,2025-07-02,inactivo
+862,Mariana Silva,mariana.silva.0862@example.com,Mendoza,2025-08-21,ocasional
+863,Lucia Alvarez,lucia.alvarez.0863@example.com,BUENOS AIRES,2026-01-12,ocasional
+864,Valentina Diaz,valentina.diaz.0864@example.com,Buenos Aires,2023-10-02,ocasional
+865,Florencia Acosta,florencia.acosta.0865@example.com,Buenos Aires,2025-04-28,ocasional
+866,Lucia Ramirez,lucia.ramirez.0866@example.com,CABA,2026-02-08,inactivo
+867,Sofia Fernandez,sofia.fernandez.0867@example.com,Buenos Aires,2022-09-13,ocasional
+868,Agustina Gomez,agustina.gomez.0868@example.com,Capital Federal,2023-12-19,frecuente
+869,Federico Ramirez,federico.ramirez.0869@example.com,CABA,2022-08-04,frecuente
+870,Mariana Gomez,mariana.gomez.0870@example.com,Buenos Aires,2024-04-23,ocasional
+871,Federico Gomez,federico.gomez.0871@example.com,BUENOS AIRES,2024-12-13,ocasional
+872,Martin Sanchez,martin.sanchez.0872@example.com,Buenos Aires,2024-05-17,ocasional
+873,Santiago Ramirez,santiago.ramirez.0873@example.com,Salta,2022-11-30,ocasional
+874,Pablo Benitez,pablo.benitez.0874@example.com,Tucuman,2024-11-17,ocasional
+875,Gonzalo Gomez,gonzalo.gomez.0875@example.com,CABA,2025-02-18,ocasional
+876,Natalia Alvarez,natalia.alvarez.0876@example.com,Buenos Aires,2022-03-24,frecuente
+877,Lucia Fernandez,lucia.fernandez.0877@example.com,CABA,2026-06-09,ocasional
+878,Natalia Acosta,natalia.acosta.0878@example.com,Entre Rios,2023-09-17,ocasional
+879,Santiago Acosta,santiago.acosta.0879@example.com,Buenos Aires,2024-05-05,frecuente
+880,Pablo Silva,pablo.silva.0880@example.com,CABA,2026-01-14,ocasional
+881,Federico Lopez,federico.lopez.0881@example.com,Cordoba,2025-09-28,ocasional
+882,Manuel Alvarez,manuel.alvarez.0882@example.com,Mendoza,2025-09-22,ocasional
+883,Martin Fernandez,martin.fernandez.0883@example.com,Cordoba,2024-06-26,frecuente
+884,Florencia Ramirez,florencia.ramirez.0884@example.com,Buenos Aires,2026-04-30,ocasional
+885,Diego Pereyra,diego.pereyra.0885@example.com,Córdoba,2025-01-14,ocasional
+886,Sofia Castro,sofia.castro.0886@example.com,Santa Fe,2024-10-26,ocasional
+887,Valentina Benitez,valentina.benitez.0887@example.com,Tucuman,2023-07-18,ocasional
+888,Pablo Alvarez,pablo.alvarez.0888@example.com,Mendoza,2025-05-27,ocasional
+889,Santiago Sanchez,santiago.sanchez.0889@example.com,Entre Rios,2023-11-28,ocasional
+890,Sofia Fernandez,sofia.fernandez.0890@example.com,CABA,2025-01-14,ocasional
+891,Laura Rodriguez,laura.rodriguez.0891@example.com,Bs As,2025-10-21,ocasional
+892,Manuel Benitez,manuel.benitez.0892@example.com,Bs As,2022-07-22,inactivo
+893,Manuel Diaz,manuel.diaz.0893@example.com,CABA,2022-09-05,ocasional
+894,Julieta Gomez,julieta.gomez.0894@example.com,CABA,2022-08-24,ocasional
+895,valentina garcia,valentina.garcia.0895@example.com,BUENOS AIRES,2023-04-24,inactivo
+896,Valentina Martinez,valentina.martinez.0896@example.com,Santa Fe,2023-05-20,ocasional
+897,Federico Diaz,federico.diaz.0897@example.com,Cordoba,2025-07-26,ocasional
+898,Federico Fernandez,federico.fernandez.0898@example.com,Cordoba,2025-01-05,ocasional
+899,Valentina Gomez,valentina.gomez.0899@example.com,Buenos Aires,2025-06-25,ocasional
+900,Agustina Acosta,agustina.acosta.0900@example.com,Entre Rios,2024-09-14,inactivo
+901,Martin Fernandez,martin.fernandez.0901@example.com,Neuquen,2023-03-12,ocasional
+902,Camila Benitez,camila.benitez.0902@example.com,Santa Fe,2025-02-27,ocasional
+903,Diego Sanchez,diego.sanchez.0903@example.com,Buenos Aires,2023-07-27,ocasional
+904,Sofia Rodriguez,sofia.rodriguez.0904@example.com,CABA,2023-12-03,ocasional
+905,Pablo Diaz,pablo.diaz.0905@example.com,Buenos Aires,2023-12-01,inactivo
+906,manuel acosta,manuel.acosta.0906@example.com,Entre Rios,2022-10-01,ocasional
+907,Santiago Acosta,santiago.acosta.0907@example.com,Rio Negro,2025-10-09,ocasional
+908,Santiago Rodriguez,santiago.rodriguez.0908@example.com,CABA,2025-01-08,inactivo
+909,Pablo Pereyra,pablo.pereyra.0909@example.com,Buenos Aires,2024-02-10,inactivo
+910,Florencia Sanchez,florencia.sanchez.0910@example.com,Mendoza,2025-11-28,ocasional
+911,Mariana Silva,mariana.silva.0911@example.com,BUENOS AIRES,2022-02-10,ocasional
+912,Mariana Castro,mariana.castro.0912@example.com,Buenos Aires,2023-09-13,ocasional
+913,Santiago Fernandez,santiago.fernandez.0913@example.com,Buenos Aires,2025-12-12,ocasional
+914,Gonzalo Sanchez,gonzalo.sanchez.0914@example.com,cordoba,2025-03-11,ocasional
+915,Gonzalo Pereyra,gonzalo.pereyra.0915@example.com,Santa Fe,2025-10-08,ocasional
+916,Carla Martinez,carla.martinez.0916@example.com,Bs As,2025-03-13,inactivo
+917,Laura Castro,laura.castro.0917@example.com,Neuquen,2022-02-17,ocasional
+918,VALENTINA MARTINEZ,valentina.martinez.0918@example.com,Buenos Aires,2024-07-18,ocasional
+919,Natalia Pereyra,natalia.pereyra.0919@example.com,Santa Fe,2025-08-24,ocasional
+920,Natalia Sanchez,natalia.sanchez.0920@example.com,Salta,2023-07-16,ocasional
+921,Santiago Fernandez,santiago.fernandez.0921@example.com,Capital Federal,2022-04-07,inactivo
+922,Pablo Fernandez,pablo.fernandez.0922@example.com,Buenos Aires,2025-03-17,ocasional
+923,Julieta Ramirez,julieta.ramirez.0923@example.com,Capital Federal,2023-02-08,ocasional
+924,Diego Acosta,diego.acosta.0924@example.com,CABA,2025-04-28,ocasional
+925,Laura Castro,laura.castro.0925@example.com,Bs As,2022-04-22,frecuente
+926,Julieta Alvarez,julieta.alvarez.0926@example.com,Mendoza,2025-06-22,alto_valor
+927,Pablo Martinez,pablo.martinez.0927@example.com,Buenos Aires,2022-03-10,inactivo
+928,Carla Rodriguez,carla.rodriguez.0928@example.com,Buenos Aires,2024-06-24,frecuente
+929,Natalia Alvarez,natalia.alvarez.0929@example.com,Buenos Aires,2023-08-27,inactivo
+930,natalia castro,natalia.castro.0930@example.com,Neuquen,2026-06-01,ocasional
+931,Martin Gomez,martin.gomez.0931@example.com,Mendoza,2025-06-24,ocasional
+932,Agustina Gomez,agustina.gomez.0932@example.com,CABA,2022-08-10,frecuente
+933,Carla Martinez,carla.martinez.0933@example.com,Mendoza,2023-02-01,ocasional
+934,Sofia Diaz,sofia.diaz.0934@example.com,CABA,2025-06-25,ocasional
+935,Camila Acosta,camila.acosta.0935@example.com,Buenos Aires,2024-11-16,ocasional
+936,Lucia Martinez,lucia.martinez.0936@example.com,Rio Negro,2026-05-08,ocasional
+937,Manuel Diaz,manuel.diaz.0937@example.com,Capital Federal,2022-04-28,frecuente
+938,Valentina Sanchez,valentina.sanchez.0938@example.com,Buenos Aires,2025-08-04,ocasional
+939,Manuel Castro,manuel.castro.0939@example.com,Santa Fe,2025-11-23,frecuente
+940,Manuel Sanchez,manuel.sanchez.0940@example.com,Cordoba,2025-06-15,frecuente
+941,Diego Gomez,diego.gomez.0941@example.com,Neuquen,2022-03-28,inactivo
+942,Julieta Ramirez,julieta.ramirez.0942@example.com,Buenos Aires,2023-05-05,frecuente
+943,Manuel Rodriguez,manuel.rodriguez.0943@example.com,Santa Fe,2023-02-25,frecuente
+944,Agustina Fernandez,agustina.fernandez.0944@example.com,Buenos Aires,2025-02-10,frecuente
+945,Gonzalo Pereyra,gonzalo.pereyra.0945@example.com,Cordoba,2022-03-31,ocasional
+946,Lucia Benitez,lucia.benitez.0946@example.com,Buenos Aires,2023-11-27,ocasional
+947,Gonzalo Acosta,gonzalo.acosta.0947@example.com,Buenos Aires,2022-02-12,ocasional
+948,Diego Fernandez,diego.fernandez.0948@example.com,Entre Rios,2023-09-17,frecuente
+949,Mariana Pereyra,mariana.pereyra.0949@example.com,Buenos Aires,2026-06-25,inactivo
+950,Carla Alvarez,carla.alvarez.0950@example.com,Buenos Aires,2026-06-16,inactivo
+951,Mariana Fernandez,mariana.fernandez.0951@example.com,Cordoba,2023-05-16,frecuente
+952,Gonzalo Sanchez,gonzalo.sanchez.0952@example.com,CABA,2023-11-03,ocasional
+953,Laura Sanchez,laura.sanchez.0953@example.com,Buenos Aires,2025-04-11,inactivo
+954,Carla Rodriguez,carla.rodriguez.0954@example.com,CABA,2022-05-13,ocasional
+955,Sofia Fernandez,sofia.fernandez.0955@example.com,CABA,2023-10-22,ocasional
+956,Santiago Ramirez,santiago.ramirez.0956@example.com,Tucuman,2024-08-28,ocasional
+957,Camila Castro,camila.castro.0957@example.com,Buenos Aires,2024-03-21,ocasional
+958,Martin Martinez,martin.martinez.0958@example.com,Buenos Aires,2023-06-06,ocasional
+959,Carla Diaz,carla.diaz.0959@example.com,CABA,2025-04-10,frecuente
+960,Manuel Garcia,manuel.garcia.0960@example.com,CABA,2024-01-23,ocasional
+961,Martin Acosta,martin.acosta.0961@example.com,BUENOS AIRES,2022-06-05,ocasional
+962,Sofia Lopez,sofia.lopez.0962@example.com,cordoba,2023-04-12,frecuente
+963,Camila Lopez,camila.lopez.0963@example.com,Bs As,2023-05-28,ocasional
+964,Laura Castro,laura.castro.0964@example.com,Santa Fe,2022-10-10,inactivo
+965,Valentina Silva,valentina.silva.0965@example.com,Buenos Aires,2023-08-01,alto_valor
+966,Martin Garcia,martin.garcia.0966@example.com,Mendoza,2026-04-01,inactivo
+967,Sofia Rodriguez,sofia.rodriguez.0967@example.com,Tucuman,2024-03-25,ocasional
+968,Gonzalo Gomez,gonzalo.gomez.0968@example.com,Buenos Aires,2025-02-05,ocasional
+969,Pablo Fernandez,pablo.fernandez.0969@example.com,Mendoza,2023-10-04,inactivo
+970,Natalia Castro,natalia.castro.0970@example.com,CABA,2022-03-03,alto_valor
+971,Federico Diaz,federico.diaz.0971@example.com,Tucuman,2022-01-20,ocasional
+972,Mariana Fernandez,mariana.fernandez.0972@example.com,Buenos Aires,2026-03-22,ocasional
+973,Valentina Diaz,valentina.diaz.0973@example.com,CABA,2022-10-12,frecuente
+974,Manuel Martinez,manuel.martinez.0974@example.com,Cordoba,2025-05-29,ocasional
+975,Martin Castro,martin.castro.0975@example.com,Tucuman,2022-05-11,inactivo
+976,Diego Fernandez,diego.fernandez.0976@example.com,Cordoba,2023-09-16,ocasional
+977,Valentina Benitez,valentina.benitez.0977@example.com,Buenos Aires,2024-09-27,alto_valor
+978,Martin Diaz,martin.diaz.0978@example.com,BUENOS AIRES,2022-05-24,ocasional
+979,Agustina Benitez,agustina.benitez.0979@example.com,CABA,2024-03-11,ocasional
+980,Valentina Garcia,valentina.garcia.0980@example.com,Capital Federal,2022-09-24,inactivo
+981,Santiago Benitez,santiago.benitez.0981@example.com,Cordoba,2025-04-18,ocasional
+982,Pablo Diaz,pablo.diaz.0982@example.com,Buenos Aires,2024-07-01,ocasional
+983,Julieta Lopez,julieta.lopez.0983@example.com,CABA,2024-10-02,ocasional
+984,Carla Diaz,carla.diaz.0984@example.com,Cordoba,2023-12-12,ocasional
+985,Lucia Garcia,lucia.garcia.0985@example.com,Cordoba,2022-12-25,inactivo
+986,Natalia Gomez,natalia.gomez.0986@example.com,CABA,2025-12-01,frecuente
+987,Camila Castro,camila.castro.0987@example.com,Rio Negro,2022-11-20,ocasional
+988,Lucia Pereyra,lucia.pereyra.0988@example.com,Entre Rios,2025-11-30,ocasional
+989,Santiago Garcia,santiago.garcia.0989@example.com,Salta,2025-02-06,ocasional
+990,Diego Lopez,diego.lopez.0990@example.com,Mendoza,2023-10-30,ocasional
+991,Gonzalo Lopez,gonzalo.lopez.0991@example.com,BUENOS AIRES,2025-11-23,ocasional
+992,Manuel Ramirez,manuel.ramirez.0992@example.com,CABA,2022-01-22,ocasional
+993,Federico Fernandez,federico.fernandez.0993@example.com,Santa Fe,2024-08-08,ocasional
+994,Valentina Pereyra,valentina.pereyra.0994@example.com,Buenos Aires,2022-10-15,alto_valor
+995,Florencia Benitez,florencia.benitez.0995@example.com,Mendoza,2025-05-28,ocasional
+996,Valentina Ramirez,valentina.ramirez.0996@example.com,CABA,2025-10-19,ocasional
+997,Florencia Castro,florencia.castro.0997@example.com,Santa Fe,2025-10-14,ocasional
+998,Camila Sanchez,camila.sanchez.0998@example.com,Cordoba,2025-09-18,frecuente
+999,Martin Ramirez,martin.ramirez.0999@example.com,CABA,2022-04-10,ocasional
+1000,Julieta Fernandez,julieta.fernandez.1000@example.com,Rio Negro,2023-02-14,ocasional
