@@ -25,18 +25,25 @@ A lo largo del proyecto se busca practicar:
 - **SQL Server** — base de datos relacional del proyecto.
 - **SQL** — consultas, agregaciones y análisis sobre los datos almacenados.
 - **pyodbc** — conexión entre Python y SQL Server.
-- **Jupyter Notebook** — análisis exploratorio y documentación de resultados.
 - **Git / GitHub** — control de versiones y documentación del proyecto.
 
 ## Estructura del proyecto
 
 ```text
-DataPracticeLab/
+data-practice-lab/
 │
-├── data/          # Archivos de datos utilizados por el proyecto
-├── notebooks/     # Análisis exploratorios y ejercicios con Python/Pandas
-├── scripts/       # Scripts de generación, carga y procesamiento de datos
-├── sql/           # Esquema de base de datos y consultas SQL
+├── data/
+│   ├── raw/        # Archivos CSV generados y utilizados para la carga inicial
+│   └── processed/  # Carpeta reservada para datos procesados
+├── database/
+│   └── modelo.txt  # Descripción textual del modelo de datos
+├── sql/
+│   └── 01_schema.sql  # Esquema no destructivo de la base de datos
+├── src/
+│   ├── conexion.py       # Configuración y conexión a SQL Server
+│   ├── generar_datos.py  # Generación de datos sintéticos y CSV
+│   ├── cargar_datos.py   # Carga de datos en SQL Server
+│   └── main.py           # Punto de entrada para generar y cargar datos
 ├── .gitignore
 └── README.md
 ```
@@ -77,12 +84,12 @@ Productos ───── MovimientosStock
 
 ## Estado actual
 
-Actualmente el proyecto cuenta con una primera versión funcional de la base de datos y del flujo de trabajo entre SQL Server y Python.
+Actualmente el proyecto cuenta con una primera versión funcional de la base de datos, generación de datos sintéticos, archivos CSV y carga de datos desde Python hacia SQL Server.
 
 ### Base de datos
 
 - Esquema relacional implementado en SQL Server.
-- Scripts para crear la base de datos y sus tablas.
+- Script para crear la base de datos y sus tablas.
 - Versión no destructiva del esquema para evitar eliminar información existente.
 - Relaciones mediante claves primarias y foráneas.
 - Restricciones de integridad y unicidad.
@@ -111,7 +118,7 @@ También se realizaron validaciones iniciales de calidad e integridad de los dat
 
 ### Python + SQL Server
 
-La conexión entre Python y SQL Server se encuentra funcionando mediante `pyodbc`, permitiendo consultar la base de datos y utilizar los resultados posteriormente con Pandas.
+La conexión entre Python y SQL Server se encuentra implementada mediante `pyodbc`, permitiendo generar datos, guardarlos como CSV y cargarlos en la base de datos.
 
 Esto establece la base para desarrollar las siguientes etapas del proyecto: consultas SQL analíticas, análisis exploratorio y procesamiento de datos con Python.
 
@@ -131,26 +138,32 @@ Para trabajar con el proyecto se necesita:
 
 ```bash id="c2kl6x"
 git clone <URL_DEL_REPOSITORIO>
-cd DataPracticeLab
+cd data-practice-lab
 ```
 
 ### 2. Crear la base de datos
 
-Ejecutar desde SQL Server Management Studio el script de creación del esquema ubicado en la carpeta `sql/`.
+Ejecutar desde SQL Server Management Studio el script de creación del esquema ubicado en `sql/01_schema.sql`.
 
 El proyecto incluye una versión no destructiva del esquema, que crea la base de datos y las tablas únicamente cuando no existen.
 
 ### 3. Cargar los datos
 
-Ejecutar el script de generación y carga de datos correspondiente desde Python.
+Ejecutar el punto de entrada principal desde Python:
 
-Antes de hacerlo, verificar que la configuración de conexión a SQL Server corresponda al entorno local.
+```bash
+python src/main.py
+```
+
+Este script genera los datos sintéticos, guarda los archivos CSV en `data/raw/` y carga las tablas en SQL Server.
+
+Antes de hacerlo, verificar que la configuración de conexión en `src/conexion.py` corresponda al entorno local.
 
 ### 4. Verificar la conexión desde Python
 
-Una vez creada y poblada la base de datos, los scripts y notebooks del proyecto pueden conectarse a SQL Server mediante `pyodbc` para consultar y analizar los datos.
+Una vez creada y poblada la base de datos, los scripts del proyecto pueden conectarse a SQL Server mediante `pyodbc` para consultar y cargar los datos.
 
-> Las configuraciones específicas de cada entorno, como el nombre del servidor local, no deben almacenarse directamente en el repositorio.
+> Las configuraciones específicas de cada entorno, como el nombre del servidor local, deben revisarse antes de ejecutar el proyecto.
 
 ## Próximos pasos
 
